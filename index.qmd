@@ -3,7 +3,7 @@ title: "Caleb Kirsch"
 subtitle: "Business Intelligence & Analysis"
 ---
 
-![](headshot.jpg){width="40%"}
+![](assets/headshot.jpg){width="40%"}
 
 ## Tools
 
@@ -11,6 +11,7 @@ subtitle: "Business Intelligence & Analysis"
     -   Power Query
     -   Tabular modeling
     -   DAX formula language
+-   SQL    
 
 ## Experience
 

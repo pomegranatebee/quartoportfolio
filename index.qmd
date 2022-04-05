@@ -11,7 +11,7 @@ subtitle: "Business Intelligence & Analysis"
     -   Power Query
     -   Tabular modeling
     -   DAX formula language
--   SQL    
+-   SQL
 
 ## Experience
 

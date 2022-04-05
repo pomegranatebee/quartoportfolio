@@ -1,2 +1,3 @@
-## Caleb Kirsch
-## Business Intelligence & Analysis
+## Portfolio website for Caleb Kirsch
+
+Built with Quarto

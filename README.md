@@ -1,4 +1,2 @@
----
-title: "Caleb Kirsch"
-subtitle: "Business Intelligence & Analysis"
----
+## Caleb Kirsch
+## Business Intelligence & Analysis

@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Caleb Kirsch",
+    "section": "",
+    "text": "Caption"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Caleb Kirsch",
+    "section": "Experience",
+    "text": "Experience\n\n10 years as a manufacturing process engineer\n\nMy full resume / CV is available on LinkedIn: https://www.linkedin.com/in/calebkirsch."
+  },
+  {
+    "objectID": "index.html#tools",
+    "href": "index.html#tools",
+    "title": "Caleb Kirsch",
+    "section": "Tools",
+    "text": "Tools\n\nMicrosoft Power BI\n\nPower Query\nTabular modeling\nDAX formula language"
+  }
+]

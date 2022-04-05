@@ -3,18 +3,19 @@ title: "Caleb Kirsch"
 subtitle: "Business Intelligence & Analysis"
 ---
 
-![](headshot.jpg){width=40%}
+![](headshot.jpg){width="40%"}
 
 ## Tools
 
-* Microsoft Power BI
-  + Power Query
-  + Tabular modeling
-  + DAX formula language
+-   Microsoft Power BI
+    -   Power Query
+    -   Tabular modeling
+    -   DAX formula language
 
 ## Experience
 
-* 10 years as a manufacturing process engineer.
+-   10 years as a manufacturing process engineer.
 
-My full resume / CV is available on LinkedIn:
- <https://www.linkedin.com/in/calebkirsch>.
+My full resume / CV is available on LinkedIn: <https://www.linkedin.com/in/calebkirsch>.
+
+## Education

@@ -12,6 +12,7 @@ subtitle: "Business Intelligence & Analysis"
     -   Tabular modeling
     -   DAX formula language
 -   SQL
+-   Git
 
 ## Experience
 

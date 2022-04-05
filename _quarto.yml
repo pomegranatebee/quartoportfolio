@@ -12,7 +12,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: darkly
     css: styles.css
 
 editor: visual

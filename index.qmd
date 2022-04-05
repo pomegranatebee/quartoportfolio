@@ -3,21 +3,20 @@ title: "Caleb Kirsch"
 subtitle: "Business Intelligence & Analysis"
 ---
 
-
 ![](assets/headshot.jpg){width="40%"}
 
-
-
 ## Work Experience
-*[My full resume / CV is available on LinkedIn](https://www.linkedin.com/in/calebkirsch).*
+*My full resume / CV is available on [LinkedIn](https://www.linkedin.com/in/calebkirsch). LinkedIn is also the best way to contact me.*
 
-|Role|Company|Location|Dates|
+
+|Job Role|Company|Location|Dates|
 |:----------------|:-----:|:------:|:----:|
 |**Business Analyst & Power BI Developer**|Utah Transit Authority|Salt Lake City Metropolitan Area|Jan 2022 to Present|
 |**Refinery Planning Analyst & Power BI Developer**|Chevron|North Salt Lake, UT|May 2020 to Dec 2021|
 |**Refinery Tier 3 Gasoline Specialist & Power BI Developer**|Chevron|North Salt Lake, UT|Sep 2019 to Apr 2020|
 |**Refinery Process Engineer**|Chevron|North Salt Lake, UT|Mar 2016 to Aug 2019|
 |**Refinery Process Engineer**|Chevron|Pascagoula, MS|Jun 2012 to Feb 2016|
+
 
 ## Tools
 |Software|Experience|Comment|
@@ -28,11 +27,13 @@ subtitle: "Business Intelligence & Analysis"
 |**Azure Data Engineering Stack** - *Blob Storage / Data Lake Gen2, Data Factory, Synapse Analytics*|<1 year|Finding new tools to put in the toolbox.|
 |**Microsoft Office** - *SharePoint, Word, PowerPoint, Outlook, Visio*)|10 years|Should be a given, right?|
 
+
 ## Education
 
 **Mississippi State University - May 2012**
 
 BS, Chemical Engineering; Minor in Mathematics; *magna cum laude* (GPA: 3.7/4.0).
+
 
 ## Acknowledgements
 

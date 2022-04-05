@@ -8,7 +8,7 @@ subtitle: "Business Intelligence & Analysis"
 
 
 
-## Experience
+## Work Experience
 *[My full resume / CV is available on LinkedIn](https://www.linkedin.com/in/calebkirsch).*
 
 |Role|Company|Location|Dates|
@@ -22,13 +22,18 @@ subtitle: "Business Intelligence & Analysis"
 ## Tools
 |Software|Experience|Comment|
 |:----------------|:-----:|:---------|
-|**Microsoft Power BI** - *Dataflows, Power Query, Tabular models, DAX, visuals*|4 years|
-|**Microsoft Excel** - *Power Query, Power Pivot, table & array operations, visuals*)|10 years|
-|**SQL** - *T-SQL, Teradata, OLEDB*|4 years||
-|**Microsoft Office** - *SharePoint, Word, PowerPoint, Outlook, Visio*)|10 years|
+|**Microsoft Power BI** - *Dataflows, Power Query, Tabular models, DAX, visuals*|4 years|My preferred tool for all things BI.|
+|**Microsoft Excel** - *Power Query, Power Pivot, table & array operations, visuals*)|10 years|A general-purpose workhorse, and still a worthy data scratchpad.|
+|**SQL** - *T-SQL, Teradata, OLEDB*|4 years|The machines are always there when you need someone to talk to.|
+|**Azure Data Engineering Stack** - *Blob Storage / Data Lake Gen2, Data Factory, Synapse Analytics*|<1 year|Finding new tools to put in the toolbox.|
+|**Microsoft Office** - *SharePoint, Word, PowerPoint, Outlook, Visio*)|10 years|Should be a given, right?|
 
 ## Education
 
 **Mississippi State University - May 2012**
 
 BS, Chemical Engineering; Minor in Mathematics; *magna cum laude* (GPA: 3.7/4.0).
+
+## Acknowledgements
+
+*This website is built with [Quarto](https://quarto.org/) and hosted via [Netlify](https://www.netlify.com/).*

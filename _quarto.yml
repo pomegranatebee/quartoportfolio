@@ -9,6 +9,11 @@ website:
       - href: index.qmd
         text: " "
 ##      - about.qmd
+    right:
+      - icon: github
+        href: https://github.com/pomegranatebee/quartoportfolio
+      - icon: linkedin
+        href: https://www.linkedin.com/in/calebkirsch        
 
 format:
   html:

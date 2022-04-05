@@ -24,8 +24,11 @@ subtitle: "Business Intelligence & Analysis"
 |**Microsoft Power BI** - *Dataflows, Power Query, Tabular models, DAX, visuals*|4 years|My preferred tool for all things BI.|
 |**Microsoft Excel** - *Power Query, Power Pivot, table & array operations, visuals*)|10 years|A general-purpose workhorse, and still a worthy data scratchpad.|
 |**SQL** - *T-SQL, Teradata, OLEDB*|4 years|The machines are always there when you need someone to talk to.|
-|**Azure Data Engineering Stack** - *Blob Storage / Data Lake Gen2, Data Factory, Synapse Analytics*|<1 year|Finding new tools to put in the toolbox.|
 |**Microsoft Office** - *SharePoint, Word, PowerPoint, Outlook, Visio*)|10 years|Should be a given, right?|
+|**Azure Data Engineering Stack** - *Blob Storage / Data Lake Gen2, Data Factory, Synapse Analytics*|<1 year|Traversing up the data pipeline like a salmon up a waterfall.|
+|**Git & GitHub**|<1 year|BI developers should use version control like everyone else.|
+
+
 
 
 ## Education

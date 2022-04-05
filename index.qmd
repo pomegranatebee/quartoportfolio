@@ -20,4 +20,5 @@ My full resume / CV is available on LinkedIn: <https://www.linkedin.com/in/caleb
 
 ## Education
 
-Mississippi State University
+-   Mississippi State University
+    -   Chemical Engineering

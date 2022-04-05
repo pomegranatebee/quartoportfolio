@@ -19,3 +19,5 @@ subtitle: "Business Intelligence & Analysis"
 My full resume / CV is available on LinkedIn: <https://www.linkedin.com/in/calebkirsch>.
 
 ## Education
+
+Mississippi State University

@@ -7,8 +7,8 @@ website:
     background: primary
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: " "
+##      - about.qmd
 
 format:
   html:

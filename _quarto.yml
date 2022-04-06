@@ -20,7 +20,9 @@ website:
       *This website is built with [![](assets/quarto.png){width=80px}](https://quarto.org/) and hosted via [GitHub](https://github.com/pomegranatebee/quartoportfolio) and [Netlify](https://www.netlify.com/)*
 format:
   html:
-    theme: darkly
+    theme:
+      light: flatly
+      dark: darkly
     css: styles.css
 
 editor: visual

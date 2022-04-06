@@ -13,26 +13,23 @@ My full resume / CV is available on [LinkedIn](https://www.linkedin.com/in/caleb
 ## Work Experience
 
 |Job Role|Company|Location|Dates|
-|:------------|:-----:|:------:|:----:|
-|**Business Analyst & Power BI Developer**|Utah Transit Authority|Salt Lake City Metropolitan Area|Jan 2022 to Present|
-|**Refinery Planning Analyst & Power BI Developer**|Chevron|North Salt Lake, UT|May 2020 to Dec 2021|
-|**Refinery Tier 3 Gasoline Specialist & Power BI Developer**|Chevron|North Salt Lake, UT|Sep 2019 to Apr 2020|
-|**Refinery Process Engineer**|Chevron|North Salt Lake, UT|Mar 2016 to Aug 2019|
-|**Refinery Process Engineer**|Chevron|Pascagoula, MS|Jun 2012 to Feb 2016|
+|:------------|:----:|:----:|:----:|
+|**Business Analyst & Power BI Developer**|Utah Transit Authority|Salt Lake,<br /> Utah|Jan 2022<br /> to Present|
+|**Refinery Planning Analyst & Power BI Developer**|Chevron|Salt Lake,<br /> Utah|May 2020<br /> to Dec 2021|
+|**Refinery Tier 3 Gasoline Specialist & Power BI Developer**|Chevron|Salt Lake,<br /> Utah|Sep 2019<br /> to Apr 2020|
+|**Refinery Process Engineer**|Chevron|Salt Lake,<br /> Utah|Mar 2016<br /> to Aug 2019|
+|**Refinery Process Engineer**|Chevron|Pascagoula,<br /> Mississippi|Jun 2012<br /> to Feb 2016|
 
 
 ## Tools
-|Software|Experience|Comment|
-|:-------------|:-----:|:---------|
-|**Microsoft Power BI** - *Dataflows, Power Query, Tabular models, DAX, visuals*|4 years|My preferred tool for all things BI.|
-|**Microsoft Excel** - *Power Query, Power Pivot, table & array operations, visuals*)|10 years|A general-purpose workhorse, and still a worthy data scratchpad.|
-|**SQL** - *T-SQL, Teradata, OLEDB*|4 years|The machines are always there when you need someone to talk to.|
-|**Microsoft Office** - *SharePoint, Word, PowerPoint, Outlook, Visio*)|10 years|Should be a given, right?|
-|**Azure Data Engineering Stack** - *Blob Storage / Data Lake Gen2, Data Factory, Synapse Analytics*|<1 year|Traversing up the data pipeline like a salmon up a waterfall.|
-|**Git & GitHub**|<1 year|BI developers should use version control like everyone else.|
-
-
-
+|Software|Used Since|Skill Level|Comment|
+|:-----------|:---:|:---:|:---------|
+|**Microsoft Power BI** <br /> *Power Query, Tabular models, DAX, visuals, Dataflows, Paginated Reports, Workspaces*|2018|Expert|My preferred tool for all things BI.|
+|**SQL** <br /> *T-SQL, Teradata, OLEDB*|2018|Advanced|The machines are always there when you need someone to talk to.|
+|**Azure Data Engineering Stack** <br /> *Blob Storage / Data Lake Gen2, Data Factory, Synapse Analytics*|2022|Novice|Traversing up the data pipeline like a salmon up a waterfall.|
+|**Microsoft Excel** <br /> *Power Query, Power Pivot, table & array operations, visuals*|2009|Expert|A general-purpose workhorse, and still a worthy data scratchpad.|
+|**Git & GitHub**|2022|Novice|BI developers should use version control like everyone else.|
+|**Microsoft Office Suite** <br /> *SharePoint, Word, PowerPoint, Outlook, Visio*|2009|Expert|Should be a given, right?|
 
 ## Education
 

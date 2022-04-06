@@ -25,11 +25,11 @@ My full resume / CV is available on [LinkedIn](https://www.linkedin.com/in/caleb
 ## Tools
 |Software|Used Since|Skill Level|Comment|
 |:-----------|:---:|:---:|:---------|
-|**Microsoft Power BI**<br/>*Power Query, Tabular models, DAX, visuals, Dataflows, Paginated Reports, Workspaces*|2018|:star::star::star::star:<br/>Expert|My preferred tool for all things BI.|
-|**SQL**<br/>*T-SQL, Teradata, OLEDB*|2018|:star::star::star:<br/>Advanced|The machines are always there when you need someone to talk to.|
-|**Azure Data Engineering Stack**<br/>*Blob Storage / Data Lake Gen2, Data Factory, Synapse Analytics*|2022|:star:<br/>Novice|Traversing up the data pipeline like a salmon up a waterfall.|
-|**Microsoft Excel**<br/>*Power Query, Power Pivot, table & array operations, visuals*|2009|:star::star::star::star:<br/>Expert|A general-purpose workhorse, and still a worthy data scratchpad.|
-|**Git & GitHub**|2022|:star:<br/>Novice|BI developers should use version control like everyone else.|
+|![](assets/Power BI logo.png){width=20px}&nbsp;&nbsp;**Microsoft Power BI**<br/>*Power Query, Tabular models, DAX, visuals, Dataflows, Paginated Reports, Workspaces*|2018|:star::star::star::star:<br/>Expert|My preferred tool for all things BI.|
+|![](assets/SQL logo.png){width=20px}&nbsp;&nbsp;**SQL**<br/>*T-SQL, Teradata, OLEDB*|2018|:star::star::star:<br/>Advanced|The machines are always there when you need someone to talk to.|
+|![](assets/Azure logo.png){width=20px}&nbsp;&nbsp;**Azure Data Engineering Stack**<br/>*Blob Storage / Data Lake Gen2, Data Factory, Synapse Analytics*|2022|:star:<br/>Novice|Exploring new data tools to put in the toolbelt.|
+|![](assets/Excel logo.png){width=20px}&nbsp;&nbsp;**Microsoft Excel**<br/>*Power Query, Power Pivot, table & array operations, visuals*|2009|:star::star::star::star:<br/>Expert|A general-purpose workhorse, and still a worthy data scratchpad.|
+|![](assets/Git logo.png){width=20px}&nbsp;&nbsp;**Git & GitHub**|2022|:star:<br/>Novice|This website is built and maintained using Git.|
 |**Microsoft Office Suite**<br/>*SharePoint, Word, PowerPoint, Outlook, Visio*|2009|:star::star::star::star:<br/>Expert|Should be a given, right?|
 
 ## Education & Certifications

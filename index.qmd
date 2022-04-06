@@ -23,7 +23,7 @@ My full resume / CV is available on [LinkedIn](https://www.linkedin.com/in/caleb
 
 
 ## Tools
-|Software|Used Since|Skill Level|Comment|
+|Software / Language|Used Since|Skill Level|Comment|
 |:-----------|:---:|:---:|:---------|
 |![](assets/Power BI logo.png){width=20px}&nbsp;&nbsp;**Power BI**<br/>*Power Query, Tabular models, DAX, visuals, Dataflows, Paginated Reports, Workspaces*|2018|:star::star::star::star:<br/>Expert|My preferred tool for all things BI.|
 |![](assets/SQL logo.png){width=20px}&nbsp;&nbsp;**SQL**<br/>*T-SQL, Teradata, OLEDB*|2018|:star::star::star:<br/>Advanced|The machines are always there when you need someone to talk to.|

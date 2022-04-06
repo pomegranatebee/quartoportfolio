@@ -13,7 +13,7 @@ My full resume / CV is available on [LinkedIn](https://www.linkedin.com/in/caleb
 
 ## Work Experience
 
-|Job Role|Company|Location|Dates|
+|Job Role|Employer|Location|Dates|
 |:------------|:----:|:----:|:----:|
 |**Business Analyst & Power BI Developer**|![](assets/UTA logo.png){width=50px}<br/>Utah Transit Authority|Salt Lake,<br/>Utah|Jan 2022<br/>to Present|
 |**Refinery Planning Analyst & Power BI Developer**|![](assets/Chevron logo.png){width=50px}<br/>Chevron|Salt Lake,<br/>Utah|May 2020<br/>to Dec 2021|

@@ -37,7 +37,7 @@ My full resume / CV is available on [LinkedIn](https://www.linkedin.com/in/caleb
 ![](assets/Mississippi State logo.png){width=50px}  **Mississippi State University**
 
 :::{.callout-note}
-## BS, Chemical Engineering
+## Bachelor of Science, Chemical Engineering
 *May 2012*<br/>Minor in Mathematics; *magna cum laude* (GPA: 3.7/4.0).
 :::
 

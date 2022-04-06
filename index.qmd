@@ -1,6 +1,6 @@
 ---
 title: "Caleb Kirsch"
-subtitle: "Business Intelligence & Analysis"
+subtitle: "Business Intelligence Developer & Business Analyst"
 from: markdown+emoji
 ---
 

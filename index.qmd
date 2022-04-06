@@ -32,12 +32,18 @@ My full resume / CV is available on [LinkedIn](https://www.linkedin.com/in/caleb
 |**Git & GitHub**|2022|:star:<br/>Novice|BI developers should use version control like everyone else.|
 |**Microsoft Office Suite**<br/>*SharePoint, Word, PowerPoint, Outlook, Visio*|2009|:star::star::star::star:<br/>Expert|Should be a given, right?|
 
-## Education
+## Education & Certifications
 
-![](assets/Mississippi State logo.png){width=70px} **Mississippi State University**
+![](assets/Mississippi State logo.png){width=50px}  **Mississippi State University**
 
 :::{.callout-note}
-## Graduation: May 2012
-BS, Chemical Engineering; Minor in Mathematics; *magna cum laude* (GPA: 3.7/4.0).
+## BS, Chemical Engineering
+*May 2012*<br/>Minor in Mathematics; *magna cum laude* (GPA: 3.7/4.0).
 :::
 
+![](assets/Microsoft logo.png){width=50px}  **Microsoft**
+
+:::{.callout-note}
+## Microsoft Certified: Power BI Data Analyst Associate
+*Apr 2022*
+:::

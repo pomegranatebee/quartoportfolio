@@ -12,6 +12,7 @@ My full resume / CV is available on [LinkedIn](https://www.linkedin.com/in/caleb
 
 
 
+
 |Job Role|Company|Location|Dates|
 |:------------|:-----:|:------:|:----:|
 |**Business Analyst & Power BI Developer**|Utah Transit Authority|Salt Lake City Metropolitan Area|Jan 2022 to Present|

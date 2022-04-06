@@ -1,6 +1,6 @@
 ---
 title: "Caleb Kirsch"
-subtitle: "Business Intelligence Developer & Business Analyst"
+subtitle: "Business Intelligence Developer, Business Analyst, Process Engineer"
 from: markdown+emoji
 ---
 

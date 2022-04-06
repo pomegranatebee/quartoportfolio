@@ -10,7 +10,7 @@ subtitle: "Business Intelligence & Analysis"
 
 
 |Job Role|Company|Location|Dates|
-|:----------------|:-----:|:------:|:----:|
+|:-----------|:-----:|:------:|:----:|
 |**Business Analyst & Power BI Developer**|Utah Transit Authority|Salt Lake City Metropolitan Area|Jan 2022 to Present|
 |**Refinery Planning Analyst & Power BI Developer**|Chevron|North Salt Lake, UT|May 2020 to Dec 2021|
 |**Refinery Tier 3 Gasoline Specialist & Power BI Developer**|Chevron|North Salt Lake, UT|Sep 2019 to Apr 2020|
@@ -20,7 +20,7 @@ subtitle: "Business Intelligence & Analysis"
 
 ## Tools
 |Software|Experience|Comment|
-|:----------------|:-----:|:---------|
+|:------------|:-----:|:---------|
 |**Microsoft Power BI** - *Dataflows, Power Query, Tabular models, DAX, visuals*|4 years|My preferred tool for all things BI.|
 |**Microsoft Excel** - *Power Query, Power Pivot, table & array operations, visuals*)|10 years|A general-purpose workhorse, and still a worthy data scratchpad.|
 |**SQL** - *T-SQL, Teradata, OLEDB*|4 years|The machines are always there when you need someone to talk to.|

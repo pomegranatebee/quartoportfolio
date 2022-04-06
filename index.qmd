@@ -41,9 +41,9 @@ My full resume / CV is available on [LinkedIn](https://www.linkedin.com/in/caleb
 *May 2012*<br/>Minor in Mathematics; *magna cum laude* (GPA: 3.7/4.0).
 :::
 
-![](assets/Microsoft logo.png){width=50px}  **Microsoft**
+![](assets/Microsoft logo.png){width=40px}  **Microsoft**
 
 :::{.callout-note}
 ## Microsoft Certified: Power BI Data Analyst Associate
-*Apr 2022*
+*Apr 2022*<br/>[Credly](https://www.credly.com/badges/b1c71cb7-e850-4ea2-a3e2-c0a74c545fc8)
 :::

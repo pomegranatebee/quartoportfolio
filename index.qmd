@@ -36,8 +36,3 @@ subtitle: "Business Intelligence & Analysis"
 **Mississippi State University - May 2012**
 
 BS, Chemical Engineering; Minor in Mathematics; *magna cum laude* (GPA: 3.7/4.0).
-
-
-## Acknowledgements
-
-*This website is built with [Quarto](https://quarto.org/) and hosted via [GitHub](https://github.com/pomegranatebee/quartoportfolio) and  [Netlify](https://www.netlify.com/).*

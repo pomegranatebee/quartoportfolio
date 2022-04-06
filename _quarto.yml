@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Caleb Kirsch"
+  favicon: "assets/Power BI logo.png"
   google-analytics: "G-GR6BB3VRLC"
   navbar:
     background: primary

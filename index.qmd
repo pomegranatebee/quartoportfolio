@@ -5,13 +5,12 @@ subtitle: "Business Intelligence & Analysis"
 
 ![](assets/headshot.jpg){width="40%"}
 
-## Work Experience
 :::{.callout-note}
+## Note
 My full resume / CV is available on [LinkedIn](https://www.linkedin.com/in/calebkirsch). LinkedIn is also the best way to contact me.
 :::
 
-
-
+## Work Experience
 
 |Job Role|Company|Location|Dates|
 |:------------|:-----:|:------:|:----:|

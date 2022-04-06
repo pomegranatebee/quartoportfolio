@@ -23,6 +23,7 @@ format:
     theme:
       light: flatly
       dark: darkly
+    fontsize: medium
     css: styles.css
 
 editor: visual

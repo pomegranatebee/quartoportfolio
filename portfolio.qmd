@@ -6,13 +6,13 @@ title: "Portfolio"
 :::{.callout-important}
 ## Disclaimer
 
-By nature, it is challenging to build a business intelligence portfolio since most BI work is generated for internal company use. Examples on this page are a small subset of the work I have done that has been cleared for public use. I hope to add more to this portfolio in the near future.
+By nature, it is challenging to build a business intelligence portfolio since most BI work is generated for internal company use. Examples on this page are a small subset of my work that is publicly available. I hope to add more to this portfolio in the near future.
 :::
 
-## Utah Transit Authority: Free Fare February Report
+## Utah Transit Authority - Free Fare February Report
 
 ::: {layout-ncol=2 layout-valign="center"}
 [![](assets/portfolio/UTA FFF.png){width=250px}](assets/portfolio/UTA FFF report.pdf)
 
-I generated all the data visualizations (bar & column charts, donut charts, heat maps) for this report using Power BI. I also read and manually categorized about 2,000 customer comments for sentiment analysis.
+UTA declared "Free Fare February" (FFF) in 2022, granting free access to all public transit modes (bus, light rail, commuter rail, and more). A large increase in ridership (>20%) was observed as a result, leading to nationwide interest in a post-mortem report.<br/><br/>Using Power BI, I generated all the data visualizations for the FFF report. I also read and manually categorized about 2,000 customer comments for sentiment analysis.<br/><br/>
 :::

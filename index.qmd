@@ -1,6 +1,6 @@
 ---
 title: "Hi, I'm Caleb."
-subtitle: "*Business Intelligence Developer, Business Analyst, Process Engineer*"
+subtitle: "*Business Intelligence Developer, Data Analyst, Process Engineer*"
 from: markdown+emoji
 ---
 

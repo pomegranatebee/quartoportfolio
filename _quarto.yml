@@ -11,6 +11,7 @@ website:
       - href: index.qmd
         text: " "
       - Portfolio.qmd
+      - Personal.qmd
     right:
       - icon: github
         href: https://github.com/pomegranatebee/

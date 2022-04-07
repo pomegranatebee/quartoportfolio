@@ -2,7 +2,7 @@
 title: "Portfolio"
 ---
 
-## Utah Transit Authority // Free Fare February Report
+## Utah Transit Authority: Free Fare February Report
 
 ::: {layout-ncol=2 layout-valign="center"}
 [![](assets/portfolio/UTA FFF.png){width=250px}](assets/portfolio/UTA FFF report.pdf)

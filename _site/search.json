@@ -40,5 +40,19 @@
     "title": "Portfolio",
     "section": "",
     "text": "I generated all the data visualizations (bar & column charts, donut charts, heat maps) for this report using Power BI. I also read and manually categorized about 2,000 customer comments for sentiment analysis."
+  },
+  {
+    "objectID": "personal.html",
+    "href": "personal.html",
+    "title": "Personal",
+    "section": "",
+    "text": "One of my best friends - my big mutt, Eddie. Can you guess his breed mix? Check out Eddie’s Embark DNA test."
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "I generated all the data visualizations (bar & column charts, donut charts, heat maps) for this report using Power BI. I also read and manually categorized about 2,000 customer comments for sentiment analysis."
   }
 ]

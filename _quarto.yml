@@ -8,10 +8,10 @@ website:
   navbar:
     background: primary
     left:
-      - href: index.qmd
+      - href: home.qmd
         text: " "
-      - Portfolio.qmd
-      - Personal.qmd
+      - portfolio.qmd
+      - personal.qmd
     right:
       - icon: github
         href: https://github.com/pomegranatebee/

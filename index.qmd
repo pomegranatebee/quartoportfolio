@@ -27,13 +27,13 @@ My full resume / CV is available on [LinkedIn](https://www.linkedin.com/in/caleb
 |Software / Language|Used Since|Skill Level|Comment|
 |:------------|:---:|:---:|:--------|
 |![](assets/Power BI logo.png){width=20px}&nbsp;&nbsp;**Power BI**<br/>*Power Query, Tabular models, DAX, visuals, Dataflows, Paginated Reports, Workspaces*|2018|:star::star::star::star:<br/>Expert|My preferred tool for all things BI.|
-|![](assets/SQL logo.png){width=20px}&nbsp;&nbsp;**SQL**<br/>*T-SQL, Teradata, OLEDB*|2018|:star::star::star:<br/>Advanced|The machines are always there when you need someone to talk to.|
-|![](assets/Azure logo.png){width=20px}&nbsp;&nbsp;**Azure Data Engineering Stack**<br/>*Blob Storage / Data Lake Gen2, Data Factory, Synapse Analytics*|2022|:star:<br/>Novice|Exploring new data tools to put in the toolbelt.|
-|![](assets/Excel logo.png){width=20px}&nbsp;&nbsp;**Excel**<br/>*Power Query, Power Pivot, table & array operations, visuals*|2009|:star::star::star::star:<br/>Expert|A general-purpose workhorse, and still a worthy data scratchpad.|
+|![](assets/SQL logo.png){width=20px}&nbsp;&nbsp;**SQL**<br/>*T-SQL, Teradata, OLEDB*|2018|:star::star::star:<br/>Advanced|The machines are always there when you need to talk.|
+|![](assets/Azure logo.png){width=20px}&nbsp;&nbsp;**Azure Data Engineering Stack**<br/>*Blob Storage / Data Lake Gen2, Data Factory, Synapse Analytics*|2022|:star:<br/>Novice|Acquiring new data tools for the tool belt.|
+|![](assets/Excel logo.png){width=20px}&nbsp;&nbsp;**Excel**<br/>*Power Query, Power Pivot, table & array operations, visuals*|2009|:star::star::star::star:<br/>Expert|Still a worthy data scratchpad.|
 |![](assets/Tableau logo.png){width=20px}&nbsp;&nbsp;**Tableau**<br/>*Tableau Public*|2022|:star:<br/>Novice|Learning my way around Tableau for public-facing BI projects.|
-|![](assets/Git logo.png){width=20px}&nbsp;&nbsp;**Git & GitHub**|2022|:star:<br/>Novice|This website is built and maintained using Git.|
-|![](assets/OSIsoft logo.png){width=20px}&nbsp;&nbsp;**OSIsoft PI Data Historian Suite**<br/>*PI Asset Framework, PI Data Archive, PI Vision, PI OLEDB*|2012|:star::star::star:<br/>Advanced|Used every day from 2012 to 2021 as a process egnineer.|
-|**Microsoft Office Suite**<br/>*Outlook, PowerPoint, SharePoint, Teams*|2009|:star::star::star::star:<br/>Expert|Should be a given, right?|
+|![](assets/Git logo.png){width=20px}&nbsp;&nbsp;**Git & GitHub**|2022|:star:<br/>Novice|This website is maintained using Git.|
+|![](assets/OSIsoft logo.png){width=20px}&nbsp;&nbsp;**OSIsoft PI Data Historian Suite**<br/>*PI Asset Framework, PI Data Archive, PI Vision, PI OLEDB*|2012|:star::star::star:<br/>Advanced|Used every day from 2012 to 2021 as a process engineer.|
+|![](assets/Microsoft logo.png){width=20px}&nbsp;&nbsp;**Microsoft Office Suite**<br/>*OneNote, Outlook, PowerPoint, SharePoint, Teams, Word*|2009|:star::star::star::star:<br/>Expert|Should be a given, right?|
 
 ## Education & Certifications
 

@@ -5,7 +5,7 @@ title: "Portfolio"
 ## Utah Transit Authority // Free Fare February Report
 
 ::: {layout-ncol=2 layout-valign="center"}
-[![](assets/portfolio/UTA FFF.png){width=250px}](https://rideuta.com/-/media/Files/Rider-Info/Free-Fare-February/FFF_Report_FINAL_Apr2022.ashx)
+[![](assets/portfolio/UTA FFF.png){width=250px}](assets/portfolio/UTA FFF report.pdf)
 
 I generated all the data visualizations (bar & column charts, donut charts, heat maps) for this report using Power BI. I also read and manually categorized about 2,000 customer comments for sentiment analysis.
 :::

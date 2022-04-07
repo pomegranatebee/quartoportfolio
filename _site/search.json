@@ -1,40 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Caleb Kirsch",
-    "section": "",
-    "text": "My full resume / CV is available on LinkedIn. LinkedIn is also the best way to contact me."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Caleb Kirsch",
-    "section": "Experience",
-    "text": "Experience\nMy full resume / CV is available on LinkedIn.\n\n\n\n\n\n\n\n\n\nRole\nCompany\nLocation\nDates\n\n\n\n\nBusiness Analyst & Power BI Developer\nUtah Transit Authority\nSalt Lake City Metropolitan Area\nJan 2022 to Present\n\n\nRefinery Planning Analyst & Power BI Developer\nChevron\nNorth Salt Lake, UT\nMay 2020 to Dec 2021\n\n\nRefinery Tier 3 Gasoline Specialist & Power BI Developer\nChevron\nNorth Salt Lake, UT\nSep 2019 to Apr 2020\n\n\nRefinery Process Engineer\nChevron\nNorth Salt Lake, UT\nMar 2016 to Aug 2019\n\n\nRefinery Process Engineer\nChevron\nPascagoula, MS\nJun 2012 to Feb 2016"
-  },
-  {
-    "objectID": "index.html#tools",
-    "href": "index.html#tools",
-    "title": "Caleb Kirsch",
-    "section": "Tools",
-    "text": "Tools\n\n\n\n\n\n\n\n\n\nSoftware / Language\nUsed Since\nSkill Level\nComment\n\n\n\n\n  Power BIPower Query, Tabular models, DAX, visuals, Dataflows, Paginated Reports, Workspaces\n2018\n⭐⭐⭐⭐Expert\nMy preferred tool for all things BI.\n\n\n  SQLT-SQL, Teradata, OLEDB\n2018\n⭐⭐⭐Advanced\nThe machines are always there when you need someone to talk to.\n\n\n  Azure Data Engineering StackBlob Storage / Data Lake Gen2, Data Factory, Synapse Analytics\n2022\n⭐Novice\nExploring new data tools to put in the toolbelt.\n\n\n  ExcelPower Query, Power Pivot, table & array operations, visuals\n2009\n⭐⭐⭐⭐Expert\nA general-purpose workhorse, and still a worthy data scratchpad.\n\n\n  TableauTableau Public\n2022\n⭐Novice\nLearning my way around Tableau for public-facing BI projects.\n\n\n  Git & GitHub\n2022\n⭐Novice\nThis website is built and maintained using Git.\n\n\n  OSIsoft PI Data Historian SuitePI Asset Framework, PI Data Archive, PI Vision, PI OLEDB\n2012\n⭐⭐⭐Advanced\nUsed every day from 2012 to 2021 as a process egnineer.\n\n\nMicrosoft Office SuiteOutlook, PowerPoint, SharePoint, Teams\n2009\n⭐⭐⭐⭐Expert\nShould be a given, right?"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Caleb Kirsch",
-    "section": "Education",
-    "text": "Education\n Mississippi State University\n\n\n\n\n\n\nGraduation: May 2012\n\n\n\nBS, Chemical Engineering; Minor in Mathematics; magna cum laude (GPA: 3.7/4.0)."
-  },
-  {
     "objectID": "index.html#work-experience",
     "href": "index.html#work-experience",
     "title": "Hi, I’m Caleb.",
@@ -42,11 +7,11 @@
     "text": "Work Experience\n\n\n\n\n\n\nThe information below is a summary.\n\n\n\nMy full resume / CV is available on LinkedIn. LinkedIn is also the best way to contact me.\n\n\n\n\n\n\n\n\n\n\n\nEmployer\nJob Role\nLocation\nDates\n\n\n\n\nUtah Transit Authority\nBusiness Analyst& Power BI Developer\nSalt Lake,Utah\nJan 2022to Present\n\n\nChevron\nRefinery Planning Analyst& Power BI Developer\nSalt Lake,Utah\nMay 2020to Dec 2021(1yr, 8mo)\n\n\nChevron\nRefinery Tier 3 Gasoline Specialist& Power BI Developer\nSalt Lake,Utah\nSep 2019to Apr 2020(8mo)\n\n\nChevron\nRefinery Process Engineer\nSalt Lake,Utah\nMar 2016to Aug 2019(3yr, 6mo)\n\n\nChevron\nRefinery Process Engineer\nPascagoula, Mississippi\nJun 2012to Feb 2016(3yr, 9mo)"
   },
   {
-    "objectID": "index.html#acknowledgements",
-    "href": "index.html#acknowledgements",
-    "title": "Caleb Kirsch",
-    "section": "Acknowledgements",
-    "text": "Acknowledgements\nThis website is built with Quarto and hosted via GitHub and Netlify."
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Hi, I’m Caleb.",
+    "section": "Skills",
+    "text": "Skills\n\n\n\n\n\n\n\n\n\nSoftware / Language\nUsed Since\nSkill Level\nComment\n\n\n\n\n  Power BIPower Query, Tabular models, DAX, visuals, Dataflows, Paginated Reports, Workspaces\n2018\n⭐⭐⭐⭐Expert\nMy preferred tool for all things BI.\n\n\n  SQLT-SQL, SSMS, SSRS, Teradata, OLEDB\n2018\n⭐⭐⭐Advanced\nThe machines are always there when you need to talk.\n\n\n  Azure Data Engineering StackBlob Storage / Data Lake Gen2, Data Factory, Synapse Analytics\n2022\n⭐Novice\nAcquiring new data tools for the tool belt.\n\n\n  ExcelPower Query, Power Pivot, table & array operations, visuals\n2009\n⭐⭐⭐⭐Expert\nStill a worthy data scratchpad.\n\n\n  TableauTableau Public\n2022\n⭐Novice\nLearning my way around Tableau for public-facing BI projects.\n\n\n  Git & GitHub\n2022\n⭐Novice\nThis website is maintained using Git.\n\n\n  OSIsoft PI Data Historian SuitePI Asset Framework, PI Data Archive, PI Vision, PI OLEDB\n2012\n⭐⭐⭐Advanced\nUsed every day from 2012 to 2021 as a process engineer.\n\n\n  MSFT Office AppsOneNote, Outlook, PowerPoint, SharePoint, Teams, Word\n2009\n⭐⭐⭐⭐Expert\nShould be a given, right?"
   },
   {
     "objectID": "index.html#education-certifications",
@@ -54,13 +19,6 @@
     "title": "Hi, I’m Caleb.",
     "section": "Education & Certifications",
     "text": "Education & Certifications\n   Mississippi State University\n\n\n\n\n\n\nBachelor of Science, Chemical Engineering\n\n\n\nMay 2012Minor in Mathematics; magna cum laude (GPA: 3.7/4.0).\n\n\n   Microsoft\n\n\n\n\n\n\nMicrosoft Certified: Power BI Data Analyst Associate\n\n\n\nApr 2022Credly"
-  },
-  {
-    "objectID": "index.html#skills",
-    "href": "index.html#skills",
-    "title": "Hi, I’m Caleb.",
-    "section": "Skills",
-    "text": "Skills\n\n\n\n\n\n\n\n\n\nSoftware / Language\nUsed Since\nSkill Level\nComment\n\n\n\n\n  Power BIPower Query, Tabular models, DAX, visuals, Dataflows, Paginated Reports, Workspaces\n2018\n⭐⭐⭐⭐Expert\nMy preferred tool for all things BI.\n\n\n  SQLT-SQL, SSMS, SSRS, Teradata, OLEDB\n2018\n⭐⭐⭐Advanced\nThe machines are always there when you need to talk.\n\n\n  Azure Data Engineering StackBlob Storage / Data Lake Gen2, Data Factory, Synapse Analytics\n2022\n⭐Novice\nAcquiring new data tools for the tool belt.\n\n\n  ExcelPower Query, Power Pivot, table & array operations, visuals\n2009\n⭐⭐⭐⭐Expert\nStill a worthy data scratchpad.\n\n\n  TableauTableau Public\n2022\n⭐Novice\nLearning my way around Tableau for public-facing BI projects.\n\n\n  Git & GitHub\n2022\n⭐Novice\nThis website is maintained using Git.\n\n\n  OSIsoft PI Data Historian SuitePI Asset Framework, PI Data Archive, PI Vision, PI OLEDB\n2012\n⭐⭐⭐Advanced\nUsed every day from 2012 to 2021 as a process engineer.\n\n\n  MSFT Office AppsOneNote, Outlook, PowerPoint, SharePoint, Teams, Word\n2009\n⭐⭐⭐⭐Expert\nShould be a given, right?"
   },
   {
     "objectID": "Portfolio.html",

@@ -11,7 +11,7 @@
     "href": "index.html#skills",
     "title": "Hi, I’m Caleb.",
     "section": "Skills",
-    "text": "Skills\n\n\n\n\n\n\n\n\n\nSoftware / Language\nUsed Since\nSkill Level\nComment\n\n\n\n\n  Power BIPower Query, Tabular models, DAX, visuals, Dataflows, Paginated Reports, Workspaces\n2018\n⭐⭐⭐⭐Expert\nMy preferred tool for all things BI.\n\n\n  SQLT-SQL, SSMS, SSRS, Teradata, OLEDB\n2018\n⭐⭐⭐Advanced\nThe machines are always there when you need to talk.\n\n\n  Azure Data Engineering StackBlob Storage / Data Lake Gen2, Data Factory, Synapse Analytics\n2022\n⭐Novice\nAcquiring new data tools for the tool belt.\n\n\n  ExcelPower Query, Power Pivot, table & array operations, visuals\n2009\n⭐⭐⭐⭐Expert\nStill a worthy data scratchpad.\n\n\n  TableauTableau Public\n2022\n⭐Novice\nLearning my way around Tableau for public-facing BI projects.\n\n\n  Git & GitHub\n2022\n⭐Novice\nThis website is maintained using Git.\n\n\n  OSIsoft PI Data Historian SuitePI Asset Framework, PI Data Archive, PI Vision, PI OLEDB\n2012\n⭐⭐⭐Advanced\nUsed every day from 2012 to 2021 as a process engineer.\n\n\n  MSFT Office AppsOneNote, Outlook, PowerPoint, SharePoint, Teams, Word\n2009\n⭐⭐⭐⭐Expert\nShould be a given, right?"
+    "text": "Skills\n\n\n\n\n\n\nThe information below is a summary.\n\n\n\nMy full resume / CV is available on LinkedIn. LinkedIn is also the best way to contact me.\n\n\n\n\n\n\n\n\n\n\n\nSoftware / Language\nUsed Since\nSkill Level\nComment\n\n\n\n\n  Power BIPower Query, Tabular models, DAX, visuals, Dataflows, Paginated Reports, Workspaces\n2018\n⭐⭐⭐⭐Expert\nMy preferred tool for all things BI.\n\n\n  SQLT-SQL, SSMS, SSRS, Teradata, OLEDB\n2018\n⭐⭐⭐Advanced\nThe machines are always there when you need to talk.\n\n\n  Azure Data Engineering StackBlob Storage / Data Lake Gen2, Data Factory, Synapse Analytics\n2022\n⭐Novice\nAcquiring new data tools for the tool belt.\n\n\n  ExcelPower Query, Power Pivot, table & array operations, visuals\n2009\n⭐⭐⭐⭐Expert\nStill a worthy data scratchpad.\n\n\n  TableauTableau Public\n2022\n⭐Novice\nLearning my way around Tableau for public-facing BI projects.\n\n\n  Git & GitHub\n2022\n⭐Novice\nThis website is maintained using Git.\n\n\n  OSIsoft PI Data Historian SuitePI Asset Framework, PI Data Archive, PI Vision, PI OLEDB\n2012\n⭐⭐⭐Advanced\nUsed every day from 2012 to 2021 as a process engineer.\n\n\n  MSFT Office AppsOneNote, Outlook, PowerPoint, SharePoint, Teams, Word\n2009\n⭐⭐⭐⭐Expert\nShould be a given, right?"
   },
   {
     "objectID": "index.html#education-certifications",
@@ -26,5 +26,12 @@
     "title": "Portfolio",
     "section": "",
     "text": "I generated all the data visualizations (bar & column charts, donut charts, heat maps) for this report using Power BI. I also read and manually categorized about 2,000 customer comments for sentiment analysis."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hi, I’m Caleb.",
+    "section": "",
+    "text": "I am an analytics-driven problem solver building a second career after a 10-year tenure as a manufacturing process engineer."
   }
 ]

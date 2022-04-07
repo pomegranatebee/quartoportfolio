@@ -4,7 +4,29 @@ subtitle: "*Business Intelligence Developer, Business Analyst, Process Engineer*
 from: markdown+emoji
 ---
 
-![](assets/headshot.jpg){width="40%"}
+::: {layout-ncol=2 layout-valign="center"}
+![](assets/headshot.jpg){width="300px" fig-align="center"}
+
+[![](assets/PBI certification.png){width="150px" fig-align="left"}](https://www.credly.com/badges/b1c71cb7-e850-4ea2-a3e2-c0a74c545fc8)
+:::
+
+I am an analytics-driven problem solver building a second career after a 10-year tenure as a manufacturing process engineer.
+
+## Skills
+:::{.callout-note}
+## The information below is a summary.
+My full resume / CV is available on [LinkedIn](https://www.linkedin.com/in/calebkirsch). LinkedIn is also the best way to contact me.
+:::
+|Software / Language|Used Since|Skill Level|Comment|
+|:------------|:---:|:---:|:--------|
+|![](assets/Power BI logo.png){width=20px}&nbsp;&nbsp;**Power BI**<br/>*Power Query, Tabular models, DAX, visuals, Dataflows, Paginated Reports, Workspaces*|2018|:star::star::star::star:<br/>Expert|My preferred tool for all things BI.|
+|![](assets/SQL logo.png){width=20px}&nbsp;&nbsp;**SQL**<br/>*T-SQL, SSMS, SSRS, Teradata, OLEDB*|2018|:star::star::star:<br/>Advanced|The machines are always there when you need to talk.|
+|![](assets/Azure logo.png){width=20px}&nbsp;&nbsp;**Azure Data Engineering Stack**<br/>*Blob Storage / Data Lake Gen2, Data Factory, Synapse Analytics*|2022|:star:<br/>Novice|Acquiring new data tools for the tool belt.|
+|![](assets/Excel logo.png){width=20px}&nbsp;&nbsp;**Excel**<br/>*Power Query, Power Pivot, table & array operations, visuals*|2009|:star::star::star::star:<br/>Expert|Still a worthy data scratchpad.|
+|![](assets/Tableau logo.png){width=20px}&nbsp;&nbsp;**Tableau**<br/>*Tableau Public*|2022|:star:<br/>Novice|Learning my way around Tableau for public-facing BI projects.|
+|![](assets/Git logo.png){width=20px}&nbsp;&nbsp;**Git & GitHub**|2022|:star:<br/>Novice|This website is maintained using Git.|
+|![](assets/OSIsoft logo.png){width=20px}&nbsp;&nbsp;**OSIsoft PI Data Historian Suite**<br/>*PI Asset Framework, PI Data Archive, PI Vision, PI OLEDB*|2012|:star::star::star:<br/>Advanced|Used every day from 2012 to 2021 as a process engineer.|
+|![](assets/Microsoft logo.png){width=20px}&nbsp;&nbsp;**MSFT Office Apps**<br/>*OneNote, Outlook, PowerPoint, SharePoint, Teams, Word*|2009|:star::star::star::star:<br/>Expert|Should be a given, right?|
 
 ## Work Experience
 :::{.callout-note}
@@ -19,18 +41,6 @@ My full resume / CV is available on [LinkedIn](https://www.linkedin.com/in/caleb
 |![](assets/Chevron logo.png){width=50px}<br/>Chevron|**Refinery Tier 3 Gasoline Specialist<br/>& Power BI Developer**|Salt Lake,<br/>Utah|Sep 2019<br/>to Apr 2020<br/>(8mo)|
 |![](assets/Chevron logo.png){width=50px}<br/>Chevron|**Refinery Process Engineer**|Salt Lake,<br/>Utah|Mar 2016<br/>to Aug 2019<br/>(3yr, 6mo)|
 |![](assets/Chevron logo.png){width=50px}<br/>Chevron|**Refinery Process Engineer**|Pascagoula,<br/> Mississippi|Jun 2012<br/>to Feb 2016<br/>(3yr, 9mo)|
-
-## Skills
-|Software / Language|Used Since|Skill Level|Comment|
-|:------------|:---:|:---:|:--------|
-|![](assets/Power BI logo.png){width=20px}&nbsp;&nbsp;**Power BI**<br/>*Power Query, Tabular models, DAX, visuals, Dataflows, Paginated Reports, Workspaces*|2018|:star::star::star::star:<br/>Expert|My preferred tool for all things BI.|
-|![](assets/SQL logo.png){width=20px}&nbsp;&nbsp;**SQL**<br/>*T-SQL, SSMS, SSRS, Teradata, OLEDB*|2018|:star::star::star:<br/>Advanced|The machines are always there when you need to talk.|
-|![](assets/Azure logo.png){width=20px}&nbsp;&nbsp;**Azure Data Engineering Stack**<br/>*Blob Storage / Data Lake Gen2, Data Factory, Synapse Analytics*|2022|:star:<br/>Novice|Acquiring new data tools for the tool belt.|
-|![](assets/Excel logo.png){width=20px}&nbsp;&nbsp;**Excel**<br/>*Power Query, Power Pivot, table & array operations, visuals*|2009|:star::star::star::star:<br/>Expert|Still a worthy data scratchpad.|
-|![](assets/Tableau logo.png){width=20px}&nbsp;&nbsp;**Tableau**<br/>*Tableau Public*|2022|:star:<br/>Novice|Learning my way around Tableau for public-facing BI projects.|
-|![](assets/Git logo.png){width=20px}&nbsp;&nbsp;**Git & GitHub**|2022|:star:<br/>Novice|This website is maintained using Git.|
-|![](assets/OSIsoft logo.png){width=20px}&nbsp;&nbsp;**OSIsoft PI Data Historian Suite**<br/>*PI Asset Framework, PI Data Archive, PI Vision, PI OLEDB*|2012|:star::star::star:<br/>Advanced|Used every day from 2012 to 2021 as a process engineer.|
-|![](assets/Microsoft logo.png){width=20px}&nbsp;&nbsp;**MSFT Office Apps**<br/>*OneNote, Outlook, PowerPoint, SharePoint, Teams, Word*|2009|:star::star::star::star:<br/>Expert|Should be a given, right?|
 
 ## Education & Certifications
 

@@ -1,7 +1,6 @@
 ---
-title: "Portfolio"
+title: "BI Portfolio"
 ---
-
 
 :::{.callout-important}
 ## Disclaimer

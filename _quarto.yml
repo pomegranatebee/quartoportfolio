@@ -10,7 +10,7 @@ website:
     left:
       - href: index.qmd
         text: " "
-##      - about.qmd
+      - Portfolio.qmd
     right:
       - icon: github
         href: https://github.com/pomegranatebee/

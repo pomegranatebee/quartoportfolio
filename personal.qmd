@@ -1,6 +1,9 @@
 ---
 title: "Personal"
+from: markdown+emoji
 ---
+
+## :dog: :dog: :dog:
 
 ::: {layout-ncol=2 layout-valign="center"}
 ![](assets/personal/Caleb and Eddie.jpg){width="600px" fig-align="left"}
@@ -9,3 +12,5 @@ One of my best friends - my big mutt, Eddie.<br/>
 Can you guess his breed mix?<br/>
 [Check out Eddie's Embark DNA test.](https://my.embarkvet.com/dog/eddiek)
 :::
+
+![](assets/personal/Eddie 1.jpg){width="1000px" fig-align="left"}

@@ -6,8 +6,6 @@ from: markdown+emoji
 
 ![](assets/headshot.jpg){width="40%"}
 
-
-
 ## Work Experience
 :::{.callout-note}
 ## The information below is a summary.
@@ -21,7 +19,6 @@ My full resume / CV is available on [LinkedIn](https://www.linkedin.com/in/caleb
 |![](assets/Chevron logo.png){width=50px}<br/>Chevron|**Refinery Tier 3 Gasoline Specialist<br/>& Power BI Developer**|Salt Lake,<br/>Utah|Sep 2019<br/>to Apr 2020<br/>(8mo)|
 |![](assets/Chevron logo.png){width=50px}<br/>Chevron|**Refinery Process Engineer**|Salt Lake,<br/>Utah|Mar 2016<br/>to Aug 2019<br/>(3yr, 6mo)|
 |![](assets/Chevron logo.png){width=50px}<br/>Chevron|**Refinery Process Engineer**|Pascagoula,<br/> Mississippi|Jun 2012<br/>to Feb 2016<br/>(3yr, 9mo)|
-
 
 ## Skills
 |Software / Language|Used Since|Skill Level|Comment|

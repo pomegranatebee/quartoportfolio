@@ -2,6 +2,13 @@
 title: "Portfolio"
 ---
 
+
+:::{.callout-important}
+## Disclaimer
+
+By nature, it is challenging to build a business intelligence portfolio since most BI work is generated for internal company use. Examples on this page are a small subset of the work I have done that has been cleared for public use. I hope to add more to this portfolio in the near future.
+:::
+
 ## Utah Transit Authority: Free Fare February Report
 
 ::: {layout-ncol=2 layout-valign="center"}

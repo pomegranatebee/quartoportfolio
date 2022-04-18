@@ -18,7 +18,7 @@
     "href": "home.html#work-experience",
     "title": "Hi, I’m Caleb.",
     "section": "Work Experience",
-    "text": "Work Experience\n\n\n\n\n\n\nThe information below is a summary.\n\n\n\nMy full resume / CV is available on LinkedIn. LinkedIn is also the best way to contact me.\n\n\n\n\n\n\n\n\n\n\n\nEmployer\nJob Role\nLocation\nDates\n\n\n\n\nUtah Transit Authority\nBusiness Analyst& Power BI Developer\nSalt Lake,Utah\nJan 2022to Present\n\n\nChevron\nRefinery Planning Analyst& Power BI Developer\nSalt Lake,Utah\nMay 2020to Dec 2021(1yr, 8mo)\n\n\nChevron\nRefinery Tier 3 Gasoline Specialist& Power BI Developer\nSalt Lake,Utah\nSep 2019to Apr 2020(8mo)\n\n\nChevron\nRefinery Process Engineer\nSalt Lake,Utah\nMar 2016to Aug 2019(3yr, 6mo)\n\n\nChevron\nRefinery Process Engineer\nPascagoula, Mississippi\nJun 2012to Feb 2016(3yr, 9mo)"
+    "text": "Work Experience\n\n\n\n\n\n\nThe information below is a summary.\n\n\n\nMy full resume / CV is available on LinkedIn. LinkedIn is also the best way to contact me.\n\n\n\n\n\nEmployer\nJob Role\nLocation\nDates\n\n\n\n\nCollectiv\nPower BI Consultant\nRemote\nApr 2022to Present\n\n\nUtah Transit Authority\nBusiness Analyst& Power BI Developer\nSalt Lake,Utah\nJan 2022to Apr 2022(4mo)\n\n\nChevron\nRefinery Planning Analyst& Power BI Developer\nSalt Lake,Utah\nMay 2020to Dec 2021(1yr, 8mo)\n\n\nChevron\nRefinery Tier 3 Gasoline Specialist& Power BI Developer\nSalt Lake,Utah\nSep 2019to Apr 2020(8mo)\n\n\nChevron\nRefinery Process Engineer\nSalt Lake,Utah\nMar 2016to Aug 2019(3yr, 6mo)\n\n\nChevron\nRefinery Process Engineer\nPascagoula, Mississippi\nJun 2012to Feb 2016(3yr, 9mo)"
   },
   {
     "objectID": "home.html#education-certifications",
@@ -46,6 +46,13 @@
     "href": "portfolio.html#utah-transit-authority---free-fare-february-report",
     "title": "BI Portfolio",
     "section": "Utah Transit Authority - Free Fare February Report",
-    "text": "Utah Transit Authority - Free Fare February Report\n\n\n\n\n\n\n\n\nUTA declared “Free Fare February” (FFF) in 2022, granting free access to all public transit modes (bus, light rail, commuter rail, and more). A large increase in ridership (>20%) was observed as a result, leading to nationwide interest in a post-mortem report.Using Power BI, I generated all the data visualizations for the FFF report. I also read and manually categorized about 2,000 customer comments for sentiment analysis."
+    "text": "Utah Transit Authority - Free Fare February Report\n\n\n\nUTA declared “Free Fare February” (FFF) in 2022, granting free access to all public transit modes (bus, light rail, commuter rail, and more). A large increase in ridership (>20%) was observed as a result, leading to nationwide interest in a post-mortem report.Using Power BI, I generated all the data visualizations for the FFF report. I also read and manually categorized about 2,000 customer comments for sentiment analysis."
+  },
+  {
+    "objectID": "portfolio.html#personal-power-bi-project---utah-air-quality",
+    "href": "portfolio.html#personal-power-bi-project---utah-air-quality",
+    "title": "BI Portfolio",
+    "section": "Personal Power BI Project - Utah Air Quality",
+    "text": "Personal Power BI Project - Utah Air Quality\n\n\n\n\n\n\nWarning\n\n\n\nThis project is a work in progress and should not be used for official planning or reporting purposes.\n\n\n\n\n\n\n\n\n\n\nUtah intermittently has some of the worst air quality in the United States due to the bowl-shaped topography of the mountains which surround the Wasatch Front, wildfires, and inversion effects.In April 2022, I began working on a Power BI report to analyze recent and historical air quality trends in Utah. Using Microsoft Azure cloud services, I set up a pipeline to scrape data from EPA and AirNow.gov APIs. The report automatically refreshes with new data each morning."
   }
 ]

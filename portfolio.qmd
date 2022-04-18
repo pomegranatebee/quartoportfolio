@@ -11,7 +11,22 @@ By nature, it is challenging to build a business intelligence portfolio since mo
 ## Utah Transit Authority - Free Fare February Report
 
 ::: {layout-ncol=2 layout-valign="center"}
-[![](assets/portfolio/UTA FFF.png){width=250px}](assets/portfolio/UTA FFF report.pdf)
 
 UTA declared "Free Fare February" (FFF) in 2022, granting free access to all public transit modes (bus, light rail, commuter rail, and more). A large increase in ridership (>20%) was observed as a result, leading to nationwide interest in a post-mortem report.<br/><br/>Using Power BI, I generated all the data visualizations for the FFF report. I also read and manually categorized about 2,000 customer comments for sentiment analysis.<br/><br/>
+
+[![](assets/portfolio/UTA FFF.png){width=250px}](assets/portfolio/UTA FFF report.pdf)
 :::
+
+## Personal Power BI Project - Utah Air Quality
+:::{.callout-warning}
+
+This project is a work in progress and should not be used for official planning or reporting purposes.
+:::
+
+::: {layout-ncol=2 layout-valign="center"}
+[![](assets/portfolio/UtahAirQualityPBI.png){width=300px}](https://app.powerbi.com/view?r=eyJrIjoiMmFiY2I4NjYtM2FiNy00NWI1LThjMGItZjFiZDE1OWJjZGIwIiwidCI6IjczZDk1YTI4LWI5OTItNDA4MS04NTYxLTNhMTcxNzg5ZmU2ZCIsImMiOjZ9)
+
+Utah intermittently has some of the worst air quality in the United States due to the bowl-shaped topography of the mountains which surround the [Wasatch Front](https://en.wikipedia.org/wiki/Wasatch_Front), wildfires, and [inversion effects](https://deq.utah.gov/air-quality/inversions).<br/><br/>In April 2022, I began working on a Power BI report to analyze recent and historical air quality trends in Utah. Using Microsoft Azure cloud services, I set up a pipeline to scrape data from EPA and AirNow.gov APIs. The report automatically refreshes with new data each morning.
+
+:::
+

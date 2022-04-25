@@ -20,7 +20,7 @@ My full resume / CV is available on [LinkedIn](https://www.linkedin.com/in/caleb
 |Software / Language|Used Since|Skill Level|Comment|
 |:------------|:---:|:---:|:--------|
 |![](assets/Power BI logo.png){width=20px}&nbsp;&nbsp;**Power BI**<br/>*Power Query, Tabular models, DAX, visuals, Dataflows, Paginated Reports, Workspaces*|2018|:star::star::star::star:<br/>Expert|My preferred tool for all things BI.|
-|![](assets/SQL logo.png){width=20px}&nbsp;&nbsp;**SQL**<br/>*T-SQL, SSMS, SSRS, Teradata, OLEDB*|2018|:star::star::star:<br/>Advanced|The machines are always there when you need to talk.|
+|![](assets/SQL logo.png){width=20px}&nbsp;&nbsp;**SQL**<br/>*T-SQL, SSMS, SSRS, Teradata, OLEDB*|2018|:star::star:<br/>Intermediate|The machines are always there when you need to talk.|
 |![](assets/Azure logo.png){width=20px}&nbsp;&nbsp;**Azure Data Engineering Stack**<br/>*Blob Storage / Data Lake Gen2, Data Factory, Synapse Analytics*|2022|:star:<br/>Novice|Acquiring new data tools for the tool belt.|
 |![](assets/Excel logo.png){width=20px}&nbsp;&nbsp;**Excel**<br/>*Power Query, Power Pivot, table & array operations, visuals*|2009|:star::star::star::star:<br/>Expert|Still a worthy data scratchpad.|
 |![](assets/Tableau logo.png){width=20px}&nbsp;&nbsp;**Tableau**<br/>*Tableau Public*|2022|:star:<br/>Novice|Learning my way around Tableau for public-facing BI projects.|
@@ -36,6 +36,7 @@ My full resume / CV is available on [LinkedIn](https://www.linkedin.com/in/caleb
 
 |Employer|Job Role|Location|Dates|
 |:----:|:------------|:----:|:----:|
+|[![](assets/Collectiv logo.png){width=50px}](https://gocollectiv.com/)<br/>Collectiv|**Power BI Consultant**|Remote,<br/>USA|Apr 2022<br/>to Present|
 |![](assets/UTA logo.png){width=50px}<br/>Utah Transit Authority|**Business Analyst<br/>& Power BI Developer**|Salt Lake,<br/>Utah|Jan 2022<br/>to Apr 2022<br/>(4mo)|
 |![](assets/Chevron logo.png){width=50px}<br/>Chevron|**Refinery Planning Analyst<br/>& Power BI Developer**|Salt Lake,<br/>Utah|May 2020<br/>to Dec 2021<br/>(1yr, 8mo)|
 |![](assets/Chevron logo.png){width=50px}<br/>Chevron|**Refinery Tier 3 Gasoline Specialist<br/>& Power BI Developer**|Salt Lake,<br/>Utah|Sep 2019<br/>to Apr 2020<br/>(8mo)|

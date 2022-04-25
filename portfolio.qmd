@@ -17,7 +17,7 @@ This project is a work in progress and should not be used for official planning 
 ::: {layout-ncol=2 layout-valign="center"}
 [![](assets/portfolio/UtahAirQualityPBI.png){width=300px}](https://app.powerbi.com/view?r=eyJrIjoiMmFiY2I4NjYtM2FiNy00NWI1LThjMGItZjFiZDE1OWJjZGIwIiwidCI6IjczZDk1YTI4LWI5OTItNDA4MS04NTYxLTNhMTcxNzg5ZmU2ZCIsImMiOjZ9)
 
-Utah intermittently has some of the worst air quality in the United States due to the bowl-shaped topography of the mountains which surround the [Wasatch Front](https://en.wikipedia.org/wiki/Wasatch_Front), wildfires, and [inversion effects](https://deq.utah.gov/air-quality/inversions).<br/><br/>In April 2022, I began working on a Power BI report to analyze recent and historical air quality trends in Utah. Using Microsoft Azure cloud services, I set up a pipeline to scrape data from EPA and AirNow.gov APIs. The report automatically refreshes with new data each morning.
+Utah intermittently has some of the worst air quality in the United States due to the bowl-shaped topography of the [Wasatch Front](https://en.wikipedia.org/wiki/Wasatch_Front), [inversion effects](https://deq.utah.gov/air-quality/inversions), and wildfires.<br/><br/>In April 2022, I began working on a Power BI report to analyze recent and historical air quality trends in Utah. Using Microsoft Azure cloud services, I set up a pipeline to scrape data from EPA and AirNow.gov APIs. The report automatically refreshes with new data each morning.
 
 :::
 

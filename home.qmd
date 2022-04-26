@@ -34,7 +34,7 @@ My full resume / CV is available on [LinkedIn](https://www.linkedin.com/in/caleb
 My full resume / CV is available on [LinkedIn](https://www.linkedin.com/in/calebkirsch). LinkedIn is also the best way to contact me.
 :::
 
-|Employer|Job Role|Location|Dates|
+|Employer|Role|Location|Dates|
 |:----:|:------------|:----:|:----:|
 |[![](assets/Collectiv logo.png){width=50px}](https://gocollectiv.com/)<br/>Collectiv|**Power BI Consultant**|Remote,<br/>USA|Apr 2022<br/>to Present|
 |![](assets/UTA logo.png){width=50px}<br/>Utah Transit Authority|**Business Analyst<br/>& Power BI Developer**|Salt Lake,<br/>Utah|Jan 2022<br/>to Apr 2022<br/>(4mo)|

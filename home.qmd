@@ -20,7 +20,7 @@ My full resume / CV is available on [LinkedIn](https://www.linkedin.com/in/caleb
 |Software / Language|Used Since|Skill Level|Comment|
 |:------------|:---:|:---:|:--------|
 |![](assets/Power BI logo.png){width=20px}&nbsp;&nbsp;**Power BI**<br/>*Power Query, Tabular models, DAX, visuals, Dataflows, Paginated Reports, Workspaces*|2018|:star::star::star::star:<br/>Expert|My preferred tool for all things BI.|
-|![](assets/SQL logo.png){width=20px}&nbsp;&nbsp;**SQL**<br/>*T-SQL, SSMS, SSRS, Teradata, OLEDB*|2018|:star::star:<br/>Intermediate|The machines are always there when you need to talk.|
+|![](assets/SQL logo.png){width=20px}&nbsp;&nbsp;**SQL**<br/>*T-SQL, SSAS, SSRS, SSMS*|2018|:star::star:<br/>Intermediate|The machines are always there when you need to talk.|
 |![](assets/Azure logo.png){width=20px}&nbsp;&nbsp;**Azure Data Engineering Stack**<br/>*Blob Storage / Data Lake Gen2, Data Factory, Synapse Analytics*|2022|:star:<br/>Novice|Acquiring new data tools for the tool belt.|
 |![](assets/Excel logo.png){width=20px}&nbsp;&nbsp;**Excel**<br/>*Power Query, Power Pivot, table & array operations, visuals*|2009|:star::star::star::star:<br/>Expert|Still a worthy data scratchpad.|
 |![](assets/Tableau logo.png){width=20px}&nbsp;&nbsp;**Tableau**<br/>*Tableau Public*|2022|:star:<br/>Novice|Learning my way around Tableau for public-facing BI projects.|

@@ -53,7 +53,7 @@
     "href": "portfolio.html#personal-power-bi-project---utah-air-quality",
     "title": "BI Portfolio",
     "section": "Personal Power BI Project - Utah Air Quality",
-    "text": "Personal Power BI Project - Utah Air Quality\n\n\n\n\n\n\nWarning\n\n\n\nThis project is a work in progress and should not be used for official planning or reporting purposes.\n\n\n\n\n\n\n\n\n\n\nUtah intermittently has some of the worst air quality in the United States due to the bowl-shaped topography of the Wasatch Front, inversion effects, and wildfires.In April 2022, I began working on a Power BI report to analyze recent and historical air quality trends in Utah. Using Microsoft Azure cloud services, I set up a pipeline to scrape data from EPA and AirNow.gov APIs. The report automatically refreshes with new data each morning."
+    "text": "Personal Power BI Project - Utah Air Quality\n\n\n\n\n\n\nWarning\n\n\n\nThis report is no longer updated as of Nov 30, 2022.\n\n\n\n\n\n\n\n\n\n\nUtah intermittently has some of the worst air quality in the United States due to the bowl-shaped topography of the Wasatch Front, inversion effects, and wildfires.In April 2022, I created a Power BI report to analyze recent and historical air quality trends in Utah. Using Microsoft Azure cloud services, I set up a pipeline to scrape data from EPA and AirNow.gov APIs. The report automatically refreshed with new data each morning."
   },
   {
     "objectID": "portfolio.html#utah-transit-authority---free-fare-february-report",

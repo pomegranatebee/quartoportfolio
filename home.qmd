@@ -23,7 +23,6 @@ My full resume / CV is available on [LinkedIn](https://www.linkedin.com/in/caleb
 |![](assets/SQL logo.png){width=20px}&nbsp;&nbsp;**SQL**<br/>*T-SQL, SSAS, SSRS, SSMS*|2018|:star::star:<br/>Intermediate|The machines are always there when you need to talk.|
 |![](assets/Azure logo.png){width=20px}&nbsp;&nbsp;**Azure Data Engineering Stack**<br/>*Blob Storage / Data Lake Gen2, Data Factory, Synapse Analytics*|2022|:star:<br/>Novice|Acquiring new data tools for the tool belt.|
 |![](assets/Excel logo.png){width=20px}&nbsp;&nbsp;**Excel**<br/>*Power Query, Power Pivot, table & array operations, visuals*|2009|:star::star::star::star:<br/>Expert|Still a worthy data scratchpad.|
-|![](assets/Tableau logo.png){width=20px}&nbsp;&nbsp;**Tableau**<br/>*Tableau Public*|2022|:star:<br/>Novice|Learning my way around Tableau for public-facing BI projects.|
 |![](assets/Git logo.png){width=20px}&nbsp;&nbsp;**Git & GitHub**|2022|:star:<br/>Novice|This website is maintained using Git.|
 |![](assets/OSIsoft logo.png){width=20px}&nbsp;&nbsp;**OSIsoft PI Data Historian Suite**<br/>*PI Asset Framework, PI Data Archive, PI Vision, PI OLEDB*|2012|:star::star::star:<br/>Advanced|Used every day from 2012 to 2021 as a process engineer.|
 |![](assets/Microsoft logo.png){width=20px}&nbsp;&nbsp;**MSFT Office Apps**<br/>*OneNote, Outlook, PowerPoint, SharePoint, Teams, Word*|2009|:star::star::star::star:<br/>Expert|Should be a given, right?|

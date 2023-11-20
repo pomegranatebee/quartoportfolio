@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "BI Portfolio",
+    "section": "",
+    "text": "Disclaimer\n\n\n\nBy nature, it is challenging to build a business intelligence portfolio since most BI work is generated for internal company use. Examples on this page are a small subset of my work that is publicly available. I hope to add more to this portfolio in the near future."
+  },
+  {
+    "objectID": "portfolio.html#personal-power-bi-project---utah-air-quality",
+    "href": "portfolio.html#personal-power-bi-project---utah-air-quality",
+    "title": "BI Portfolio",
+    "section": "Personal Power BI Project - Utah Air Quality",
+    "text": "Personal Power BI Project - Utah Air Quality\n\n\n\n\n\n\nWarning\n\n\n\nThis report is no longer updated as of Nov 30, 2022.\n\n\n\n\n\n\n\n\n\n\nUtah intermittently has some of the worst air quality in the United States due to the bowl-shaped topography of the Wasatch Front, inversion effects, and wildfires.In April 2022, I created a Power BI report to analyze recent and historical air quality trends in Utah. Using Microsoft Azure cloud services, I set up a pipeline to scrape data from EPA and AirNow.gov APIs. The report automatically refreshed with new data each morning."
+  },
+  {
+    "objectID": "portfolio.html#utah-transit-authority---free-fare-february-report",
+    "href": "portfolio.html#utah-transit-authority---free-fare-february-report",
+    "title": "BI Portfolio",
+    "section": "Utah Transit Authority - Free Fare February Report",
+    "text": "Utah Transit Authority - Free Fare February Report\n\n\n\nUTA declared “Free Fare February” (FFF) in 2022, granting free access to all public transit modes (bus, light rail, commuter rail, and more). A large increase in ridership (&gt;20%) was observed as a result, leading to nationwide interest in a post-mortem report.Using Power BI, I generated all the data visualizations for the FFF report. I also read and manually categorized about 2,000 customer comments for sentiment analysis."
+  },
+  {
     "objectID": "home.html",
     "href": "home.html",
     "title": "Hi, I’m Caleb.",
@@ -11,7 +32,7 @@
     "href": "home.html#skills",
     "title": "Hi, I’m Caleb.",
     "section": "Skills",
-    "text": "Skills\n\n\n\n\n\n\nThe information below is a summary.\n\n\n\nMy full resume / CV is available on LinkedIn. LinkedIn is also the best way to contact me.\n\n\n\n\n\n\n\n\n\n\n\nSoftware / Language\nUsed Since\nSkill Level\nComment\n\n\n\n\n  Power BIPower Query, Tabular models, DAX, visuals, Dataflows, Paginated Reports, Workspaces\n2018\n⭐⭐⭐⭐Expert\nMy preferred tool for all things BI.\n\n\n  SQLT-SQL, SSAS, SSRS, SSMS\n2018\n⭐⭐Intermediate\nThe machines are always there when you need to talk.\n\n\n  Azure Data Engineering StackBlob Storage / Data Lake Gen2, Data Factory, Synapse Analytics\n2022\n⭐Novice\nAcquiring new data tools for the tool belt.\n\n\n  ExcelPower Query, Power Pivot, table & array operations, visuals\n2009\n⭐⭐⭐⭐Expert\nStill a worthy data scratchpad.\n\n\n  Git & GitHub\n2022\n⭐Novice\nThis website is maintained using Git.\n\n\n  OSIsoft PI Data Historian SuitePI Asset Framework, PI Data Archive, PI Vision, PI OLEDB\n2012\n⭐⭐⭐Advanced\nUsed every day from 2012 to 2021 as a process engineer.\n\n\n  MSFT Office AppsOneNote, Outlook, PowerPoint, SharePoint, Teams, Word\n2009\n⭐⭐⭐⭐Expert\nShould be a given, right?"
+    "text": "Skills\n\n\n\n\n\n\nThe information below is a summary.\n\n\n\nMy full resume / CV is available on LinkedIn. LinkedIn is also the best way to contact me.\n\n\n\n\n\n\n\n\n\n\n\nSoftware / Language\nUsed Since\nSkill Level\nComment\n\n\n\n\n  Power BIPower Query, Tabular models, DAX, visuals, Dataflows, Paginated Reports, Workspaces\n2018\n⭐⭐⭐⭐Expert\nMy preferred tool for all things BI.\n\n\n  SQLT-SQL, SSAS, SSRS\n2018\n⭐⭐Intermediate\n\n\n\n  Python\n2023\n⭐Novice\n\n\n\n  Azure Data Engineering StackData Lake Storage Gen2, Data Factory, Azure Functions\n2022\n⭐Novice\n\n\n\n  ExcelPower Query, Power Pivot, table & array operations, visuals\n2009\n⭐⭐⭐⭐Expert\n\n\n\n  Git\n2022\n⭐⭐Intermediate\nThis website is maintained using Git.\n\n\n  OSIsoft PI Data Historian SuitePI Asset Framework, PI Data Archive, PI Vision, PI OLEDB\n2012\n⭐⭐⭐Advanced\nUsed every day from 2012 to 2021 as a process engineer.\n\n\n  MSFT Office AppsOneNote, Outlook, PowerPoint, SharePoint, Teams, Word, Visio\n2009\n⭐⭐⭐⭐Expert"
   },
   {
     "objectID": "home.html#work-experience",
@@ -35,31 +56,17 @@
     "text": "One of my best friends - my big mutt, Eddie. Can you guess his breed mix? Check out Eddie’s Embark DNA test."
   },
   {
+    "objectID": "personal.html#section",
+    "href": "personal.html#section",
+    "title": "Personal",
+    "section": "",
+    "text": "One of my best friends - my big mutt, Eddie. Can you guess his breed mix? Check out Eddie’s Embark DNA test."
+  },
+  {
     "objectID": "personal.html#section-1",
     "href": "personal.html#section-1",
     "title": "Personal",
     "section": "🎧 🎧 🎧",
     "text": "🎧 🎧 🎧\nI’m a huge music nerd and I’ve been tracking my listening habits for over 15 years on"
-  },
-  {
-    "objectID": "portfolio.html",
-    "href": "portfolio.html",
-    "title": "BI Portfolio",
-    "section": "",
-    "text": "Disclaimer\n\n\n\nBy nature, it is challenging to build a business intelligence portfolio since most BI work is generated for internal company use. Examples on this page are a small subset of my work that is publicly available. I hope to add more to this portfolio in the near future."
-  },
-  {
-    "objectID": "portfolio.html#personal-power-bi-project---utah-air-quality",
-    "href": "portfolio.html#personal-power-bi-project---utah-air-quality",
-    "title": "BI Portfolio",
-    "section": "Personal Power BI Project - Utah Air Quality",
-    "text": "Personal Power BI Project - Utah Air Quality\n\n\n\n\n\n\nWarning\n\n\n\nThis report is no longer updated as of Nov 30, 2022.\n\n\n\n\n\n\n\n\n\n\nUtah intermittently has some of the worst air quality in the United States due to the bowl-shaped topography of the Wasatch Front, inversion effects, and wildfires.In April 2022, I created a Power BI report to analyze recent and historical air quality trends in Utah. Using Microsoft Azure cloud services, I set up a pipeline to scrape data from EPA and AirNow.gov APIs. The report automatically refreshed with new data each morning."
-  },
-  {
-    "objectID": "portfolio.html#utah-transit-authority---free-fare-february-report",
-    "href": "portfolio.html#utah-transit-authority---free-fare-february-report",
-    "title": "BI Portfolio",
-    "section": "Utah Transit Authority - Free Fare February Report",
-    "text": "Utah Transit Authority - Free Fare February Report\n\n\n\nUTA declared “Free Fare February” (FFF) in 2022, granting free access to all public transit modes (bus, light rail, commuter rail, and more). A large increase in ridership (>20%) was observed as a result, leading to nationwide interest in a post-mortem report.Using Power BI, I generated all the data visualizations for the FFF report. I also read and manually categorized about 2,000 customer comments for sentiment analysis."
   }
 ]

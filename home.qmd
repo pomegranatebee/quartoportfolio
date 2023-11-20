@@ -20,12 +20,13 @@ My full resume / CV is available on [LinkedIn](https://www.linkedin.com/in/caleb
 |Software / Language|Used Since|Skill Level|Comment|
 |:------------|:---:|:---:|:--------|
 |![](assets/Power BI logo.png){width=20px}&nbsp;&nbsp;**Power BI**<br/>*Power Query, Tabular models, DAX, visuals, Dataflows, Paginated Reports, Workspaces*|2018|:star::star::star::star:<br/>Expert|My preferred tool for all things BI.|
-|![](assets/SQL logo.png){width=20px}&nbsp;&nbsp;**SQL**<br/>*T-SQL, SSAS, SSRS, SSMS*|2018|:star::star:<br/>Intermediate|The machines are always there when you need to talk.|
-|![](assets/Azure logo.png){width=20px}&nbsp;&nbsp;**Azure Data Engineering Stack**<br/>*Blob Storage / Data Lake Gen2, Data Factory, Synapse Analytics*|2022|:star:<br/>Novice|Acquiring new data tools for the tool belt.|
-|![](assets/Excel logo.png){width=20px}&nbsp;&nbsp;**Excel**<br/>*Power Query, Power Pivot, table & array operations, visuals*|2009|:star::star::star::star:<br/>Expert|Still a worthy data scratchpad.|
-|![](assets/Git logo.png){width=20px}&nbsp;&nbsp;**Git & GitHub**|2022|:star:<br/>Novice|This website is maintained using Git.|
+|![](assets/SQL logo.png){width=20px}&nbsp;&nbsp;**SQL**<br/>*T-SQL, SSAS, SSRS*|2018|:star::star:<br/>Intermediate
+|![](assets/Python logo.png){width=20px}&nbsp;&nbsp;**Python**<br/>|2023|:star:<br/>Novice
+|![](assets/Azure logo.png){width=20px}&nbsp;&nbsp;**Azure Data Engineering Stack**<br/>*Data Lake Storage Gen2, Data Factory, Azure Functions*|2022|:star:<br/>Novice
+|![](assets/Excel logo.png){width=20px}&nbsp;&nbsp;**Excel**<br/>*Power Query, Power Pivot, table & array operations, visuals*|2009|:star::star::star::star:<br/>Expert
+|![](assets/Git logo.png){width=20px}&nbsp;&nbsp;**Git**|2022|:star::star:<br/>Intermediate|This website is maintained using Git.|
 |![](assets/OSIsoft logo.png){width=20px}&nbsp;&nbsp;**OSIsoft PI Data Historian Suite**<br/>*PI Asset Framework, PI Data Archive, PI Vision, PI OLEDB*|2012|:star::star::star:<br/>Advanced|Used every day from 2012 to 2021 as a process engineer.|
-|![](assets/Microsoft logo.png){width=20px}&nbsp;&nbsp;**MSFT Office Apps**<br/>*OneNote, Outlook, PowerPoint, SharePoint, Teams, Word*|2009|:star::star::star::star:<br/>Expert|Should be a given, right?|
+|![](assets/Microsoft logo.png){width=20px}&nbsp;&nbsp;**MSFT Office Apps**<br/>*OneNote, Outlook, PowerPoint, SharePoint, Teams, Word, Visio*|2009|:star::star::star::star:<br/>Expert
 
 ## Work Experience
 :::{.callout-note}

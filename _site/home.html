@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.0.35">
+<meta name="generator" content="quarto-1.3.450">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -11,10 +11,15 @@
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-span.underline{text-decoration: underline;}
-div.column{display: inline-block; vertical-align: top; width: 50%;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
 </style>
 
 
@@ -53,7 +58,8 @@ ul.task-list{list-style: none;}
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-GR6BB3VRLC"></script>
@@ -76,41 +82,45 @@ gtag('config', 'G-GR6BB3VRLC', { 'anonymize_ip': true});
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
-      <a class="navbar-brand" href="./index.html">
+      <div class="navbar-brand-container">
+    <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Caleb Kirsch</span>
-  </a>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./home.html" aria-current="page">
-  </a>
+    <a class="nav-link active" href="./home.html" rel="" target="" aria-current="page">
+ <span class="menu-text"> </span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./portfolio.html">BI Portfolio</a>
+    <a class="nav-link" href="./portfolio.html" rel="" target="">
+ <span class="menu-text">BI Portfolio</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./personal.html">Personal</a>
+    <a class="nav-link" href="./personal.html" rel="" target="">
+ <span class="menu-text">Personal</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/pomegranatebee/"><i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/pomegranatebee/" rel="" target=""><i class="bi bi-github" role="img">
 </i> 
- </a>
+ <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://www.linkedin.com/in/calebkirsch"><i class="bi bi-linkedin" role="img">
+    <a class="nav-link" href="https://www.linkedin.com/in/calebkirsch" rel="" target=""><i class="bi bi-linkedin" role="img">
 </i> 
- </a>
+ <span class="menu-text"></span></a>
   </li>  
 </ul>
-              <div class="quarto-toggle-container">
-                  <a href="" class="quarto-color-scheme-toggle nav-link" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
-              </div>
-              <div id="quarto-search" class="" title="Search"></div>
+            <div class="quarto-navbar-tools">
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+</div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
@@ -134,6 +144,7 @@ gtag('config', 'G-GR6BB3VRLC', { 'anonymize_ip': true});
 <div class="quarto-title-meta">
 
     
+  
     
   </div>
   
@@ -151,7 +162,7 @@ gtag('config', 'G-GR6BB3VRLC', { 'anonymize_ip': true});
 </div>
 <div class="quarto-figure quarto-figure-left" style="flex-basis: 33.3%;justify-content: center;">
 <figure class="figure">
-<p><a href="https://www.credly.com/badges/b1c71cb7-e850-4ea2-a3e2-c0a74c545fc8"><img src="assets/PBI%20certification.png" class="img-fluid figure-img" width="150"></a></p>
+<p><a href="https://www.credly.com/badges/b1c71cb7-e850-4ea2-a3e2-c0a74c545fc8"><img src="assets/PBI certification.png" class="img-fluid figure-img" width="150"></a></p>
 </figure>
 </div>
 </div>
@@ -159,12 +170,12 @@ gtag('config', 'G-GR6BB3VRLC', { 'anonymize_ip': true});
 <p>I’m an analytics-driven problem solver building a second career in business intelligence after a 10-year tenure as a manufacturing process engineer. I am passionate about building consensus with data, inside and outside of the workplace.</p>
 <section id="skills" class="level2">
 <h2 class="anchored" data-anchor-id="skills">Skills</h2>
-<div class="callout-note callout callout-style-default callout-captioned">
+<div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
-<div class="callout-caption-container flex-fill">
+<div class="callout-title-container flex-fill">
 The information below is a summary.
 </div>
 </div>
@@ -189,58 +200,64 @@ The information below is a summary.
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;"><img src="assets/Power%20BI%20logo.png" class="img-fluid" width="20">&nbsp;&nbsp;<strong>Power BI</strong><br><em>Power Query, Tabular models, DAX, visuals, Dataflows, Paginated Reports, Workspaces</em></td>
+<td style="text-align: left;"><img src="assets/Power BI logo.png" class="img-fluid" width="20">&nbsp;&nbsp;<strong>Power BI</strong><br><em>Power Query, Tabular models, DAX, visuals, Dataflows, Paginated Reports, Workspaces</em></td>
 <td style="text-align: center;">2018</td>
 <td style="text-align: center;"><span class="emoji" data-emoji="star">⭐</span><span class="emoji" data-emoji="star">⭐</span><span class="emoji" data-emoji="star">⭐</span><span class="emoji" data-emoji="star">⭐</span><br>Expert</td>
 <td style="text-align: left;">My preferred tool for all things BI.</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><img src="assets/SQL%20logo.png" class="img-fluid" width="20">&nbsp;&nbsp;<strong>SQL</strong><br><em>T-SQL, SSAS, SSRS, SSMS</em></td>
+<td style="text-align: left;"><img src="assets/SQL logo.png" class="img-fluid" width="20">&nbsp;&nbsp;<strong>SQL</strong><br><em>T-SQL, SSAS, SSRS</em></td>
 <td style="text-align: center;">2018</td>
 <td style="text-align: center;"><span class="emoji" data-emoji="star">⭐</span><span class="emoji" data-emoji="star">⭐</span><br>Intermediate</td>
-<td style="text-align: left;">The machines are always there when you need to talk.</td>
+<td style="text-align: left;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;"><img src="assets/Azure%20logo.png" class="img-fluid" width="20">&nbsp;&nbsp;<strong>Azure Data Engineering Stack</strong><br><em>Blob Storage / Data Lake Gen2, Data Factory, Synapse Analytics</em></td>
-<td style="text-align: center;">2022</td>
+<td style="text-align: left;"><img src="assets/Python logo.png" class="img-fluid" width="20">&nbsp;&nbsp;<strong>Python</strong><br></td>
+<td style="text-align: center;">2023</td>
 <td style="text-align: center;"><span class="emoji" data-emoji="star">⭐</span><br>Novice</td>
-<td style="text-align: left;">Acquiring new data tools for the tool belt.</td>
+<td style="text-align: left;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><img src="assets/Excel%20logo.png" class="img-fluid" width="20">&nbsp;&nbsp;<strong>Excel</strong><br><em>Power Query, Power Pivot, table &amp; array operations, visuals</em></td>
+<td style="text-align: left;"><img src="assets/Azure logo.png" class="img-fluid" width="20">&nbsp;&nbsp;<strong>Azure Data Engineering Stack</strong><br><em>Data Lake Storage Gen2, Data Factory, Azure Functions</em></td>
+<td style="text-align: center;">2022</td>
+<td style="text-align: center;"><span class="emoji" data-emoji="star">⭐</span><br>Novice</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><img src="assets/Excel logo.png" class="img-fluid" width="20">&nbsp;&nbsp;<strong>Excel</strong><br><em>Power Query, Power Pivot, table &amp; array operations, visuals</em></td>
 <td style="text-align: center;">2009</td>
 <td style="text-align: center;"><span class="emoji" data-emoji="star">⭐</span><span class="emoji" data-emoji="star">⭐</span><span class="emoji" data-emoji="star">⭐</span><span class="emoji" data-emoji="star">⭐</span><br>Expert</td>
-<td style="text-align: left;">Still a worthy data scratchpad.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><img src="assets/Git%20logo.png" class="img-fluid" width="20">&nbsp;&nbsp;<strong>Git &amp; GitHub</strong></td>
-<td style="text-align: center;">2022</td>
-<td style="text-align: center;"><span class="emoji" data-emoji="star">⭐</span><br>Novice</td>
-<td style="text-align: left;">This website is maintained using Git.</td>
+<td style="text-align: left;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><img src="assets/OSIsoft%20logo.png" class="img-fluid" width="20">&nbsp;&nbsp;<strong>OSIsoft PI Data Historian Suite</strong><br><em>PI Asset Framework, PI Data Archive, PI Vision, PI OLEDB</em></td>
+<td style="text-align: left;"><img src="assets/Git logo.png" class="img-fluid" width="20">&nbsp;&nbsp;<strong>Git</strong></td>
+<td style="text-align: center;">2022</td>
+<td style="text-align: center;"><span class="emoji" data-emoji="star">⭐</span><span class="emoji" data-emoji="star">⭐</span><br>Intermediate</td>
+<td style="text-align: left;">This website is maintained using Git.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><img src="assets/OSIsoft logo.png" class="img-fluid" width="20">&nbsp;&nbsp;<strong>OSIsoft PI Data Historian Suite</strong><br><em>PI Asset Framework, PI Data Archive, PI Vision, PI OLEDB</em></td>
 <td style="text-align: center;">2012</td>
 <td style="text-align: center;"><span class="emoji" data-emoji="star">⭐</span><span class="emoji" data-emoji="star">⭐</span><span class="emoji" data-emoji="star">⭐</span><br>Advanced</td>
 <td style="text-align: left;">Used every day from 2012 to 2021 as a process engineer.</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;"><img src="assets/Microsoft%20logo.png" class="img-fluid" width="20">&nbsp;&nbsp;<strong>MSFT Office Apps</strong><br><em>OneNote, Outlook, PowerPoint, SharePoint, Teams, Word</em></td>
+<tr class="even">
+<td style="text-align: left;"><img src="assets/Microsoft logo.png" class="img-fluid" width="20">&nbsp;&nbsp;<strong>MSFT Office Apps</strong><br><em>OneNote, Outlook, PowerPoint, SharePoint, Teams, Word, Visio</em></td>
 <td style="text-align: center;">2009</td>
 <td style="text-align: center;"><span class="emoji" data-emoji="star">⭐</span><span class="emoji" data-emoji="star">⭐</span><span class="emoji" data-emoji="star">⭐</span><span class="emoji" data-emoji="star">⭐</span><br>Expert</td>
-<td style="text-align: left;">Should be a given, right?</td>
+<td style="text-align: left;"></td>
 </tr>
 </tbody>
 </table>
 </section>
 <section id="work-experience" class="level2">
 <h2 class="anchored" data-anchor-id="work-experience">Work Experience</h2>
-<div class="callout-note callout callout-style-default callout-captioned">
+<div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
-<div class="callout-caption-container flex-fill">
+<div class="callout-title-container flex-fill">
 The information below is a summary.
 </div>
 </div>
@@ -259,37 +276,37 @@ The information below is a summary.
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><a href="https://gocollectiv.com/"><img src="assets/Collectiv%20logo.png" class="img-fluid" width="50"></a><br>Collectiv</td>
+<td style="text-align: center;"><a href="https://gocollectiv.com/"><img src="assets/Collectiv logo.png" class="img-fluid" width="50"></a><br>Collectiv</td>
 <td style="text-align: left;"><strong>Power BI Consultant<br></strong><em>(Contract)</em></td>
 <td style="text-align: center;">Remote,<br>USA</td>
 <td style="text-align: center;">Apr 2022<br>to Present</td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><img src="assets/UTA%20logo.png" class="img-fluid" width="50"><br>Utah Transit Authority</td>
+<td style="text-align: center;"><img src="assets/UTA logo.png" class="img-fluid" width="50"><br>Utah Transit Authority</td>
 <td style="text-align: left;"><strong>Business Analyst<br>&amp; Power BI Developer</strong></td>
 <td style="text-align: center;">Salt Lake,<br>Utah</td>
 <td style="text-align: center;">Jan 2022<br>to Apr 2022<br>(4mo)</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><img src="assets/Chevron%20logo.png" class="img-fluid" width="50"><br>Chevron</td>
+<td style="text-align: center;"><img src="assets/Chevron logo.png" class="img-fluid" width="50"><br>Chevron</td>
 <td style="text-align: left;"><strong>Refinery Planning Analyst<br>&amp; Power BI Developer</strong></td>
 <td style="text-align: center;">Salt Lake,<br>Utah</td>
 <td style="text-align: center;">May 2020<br>to Dec 2021<br>(1yr, 8mo)</td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><img src="assets/Chevron%20logo.png" class="img-fluid" width="50"><br>Chevron</td>
+<td style="text-align: center;"><img src="assets/Chevron logo.png" class="img-fluid" width="50"><br>Chevron</td>
 <td style="text-align: left;"><strong>Refinery Tier 3 Gasoline Specialist<br>&amp; Power BI Developer</strong></td>
 <td style="text-align: center;">Salt Lake,<br>Utah</td>
 <td style="text-align: center;">Sep 2019<br>to Apr 2020<br>(8mo)</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><img src="assets/Chevron%20logo.png" class="img-fluid" width="50"><br>Chevron</td>
+<td style="text-align: center;"><img src="assets/Chevron logo.png" class="img-fluid" width="50"><br>Chevron</td>
 <td style="text-align: left;"><strong>Refinery Process Engineer</strong></td>
 <td style="text-align: center;">Salt Lake,<br>Utah</td>
 <td style="text-align: center;">Mar 2016<br>to Aug 2019<br>(3yr, 6mo)</td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><img src="assets/Chevron%20logo.png" class="img-fluid" width="50"><br>Chevron</td>
+<td style="text-align: center;"><img src="assets/Chevron logo.png" class="img-fluid" width="50"><br>Chevron</td>
 <td style="text-align: left;"><strong>Refinery Process Engineer</strong></td>
 <td style="text-align: center;">Pascagoula,<br> Mississippi</td>
 <td style="text-align: center;">Jun 2012<br>to Feb 2016<br>(3yr, 9mo)</td>
@@ -299,13 +316,13 @@ The information below is a summary.
 </section>
 <section id="education-certifications" class="level2">
 <h2 class="anchored" data-anchor-id="education-certifications">Education &amp; Certifications</h2>
-<p><img src="assets/Mississippi%20State%20logo.png" class="img-fluid" width="40">&nbsp;&nbsp;&nbsp;<strong>Mississippi State University</strong></p>
-<div class="callout-note callout callout-style-default callout-captioned">
+<p><img src="assets/Mississippi State logo.png" class="img-fluid" width="40">&nbsp;&nbsp;&nbsp;<strong>Mississippi State University</strong></p>
+<div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
-<div class="callout-caption-container flex-fill">
+<div class="callout-title-container flex-fill">
 Bachelor of Science, Chemical Engineering
 </div>
 </div>
@@ -313,13 +330,13 @@ Bachelor of Science, Chemical Engineering
 <p><em>May 2012</em><br>Minor in Mathematics; <em>magna cum laude</em> (GPA: 3.7/4.0).</p>
 </div>
 </div>
-<p><img src="assets/Microsoft%20logo.png" class="img-fluid" width="40">&nbsp;&nbsp;&nbsp;<strong>Microsoft</strong></p>
-<div class="callout-note callout callout-style-default callout-captioned">
+<p><img src="assets/Microsoft logo.png" class="img-fluid" width="40">&nbsp;&nbsp;&nbsp;<strong>Microsoft</strong></p>
+<div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
-<div class="callout-caption-container flex-fill">
+<div class="callout-title-container flex-fill">
 Microsoft Certified: Power BI Data Analyst Associate
 </div>
 </div>
@@ -403,6 +420,16 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         }
       }
     }
+    // Hack to workaround the fact that safari doesn't
+    // properly recolor the scrollbar when toggling (#1455)
+    if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+      manageTransitions("body", false);
+      window.scrollTo(0, 1);
+      setTimeout(() => {
+        window.scrollTo(0, 0);
+        manageTransitions("body", true);
+      }, 40);  
+    }
   }
   const isFileUrl = () => { 
     return window.location.protocol === 'file:';
@@ -454,7 +481,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   // Switch to dark mode if need be
   if (hasAlternateSentinel()) {
     toggleColorMode(true);
-  } 
+  } else {
+    toggleColorMode(false);
+  }
   const icon = "";
   const anchorJS = new window.AnchorJS();
   anchorJS.options = {
@@ -462,9 +491,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -476,7 +519,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
     button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
     setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
       button.setAttribute("title", currentTitle);
       button.classList.remove('code-copy-button-checked');
     }, 1000);
@@ -504,31 +564,136 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   for (var i=0; i<noterefs.length; i++) {
     const ref = noterefs[i];
     tippyHover(ref, function() {
-      let href = ref.getAttribute('href');
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
       return note.innerHTML;
     });
   }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
   var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
   for (var i=0; i<bibliorefs.length; i++) {
     const ref = bibliorefs[i];
-    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
-    tippyHover(ref, function() {
-      var popup = window.document.createElement('div');
-      cites.forEach(function(cite) {
-        var citeDiv = window.document.createElement('div');
-        citeDiv.classList.add('hanging-indent');
-        citeDiv.classList.add('csl-entry');
-        var biblioDiv = window.document.getElementById('ref-' + cite);
-        if (biblioDiv) {
-          citeDiv.innerHTML = biblioDiv.innerHTML;
-        }
-        popup.appendChild(citeDiv);
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
       });
-      return popup.innerHTML;
-    });
+    }
   }
 });
 </script>
@@ -536,6 +701,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left"><em>This website is built with <a href="https://quarto.org/"><img src="assets/quarto.png" class="img-fluid" width="80"></a> and hosted via <a href="https://github.com/pomegranatebee/quartoportfolio">GitHub</a> and <a href="https://www.netlify.com/">Netlify</a></em></div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
   </div>
 </footer>
 

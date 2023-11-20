@@ -8,19 +8,6 @@ title: "BI Portfolio"
 By nature, it is challenging to build a business intelligence portfolio since most BI work is generated for internal company use. Examples on this page are a small subset of my work that is publicly available. I hope to add more to this portfolio in the near future.
 :::
 
-## Personal Power BI Project - Utah Air Quality
-:::{.callout-warning}
-
-This report is no longer updated as of Nov 30, 2022.
-:::
-
-::: {layout-ncol=2 layout-valign="center"}
-[![](assets/portfolio/UtahAirQualityPBI.png){width=300px}](https://app.powerbi.com/view?r=eyJrIjoiMmFiY2I4NjYtM2FiNy00NWI1LThjMGItZjFiZDE1OWJjZGIwIiwidCI6IjczZDk1YTI4LWI5OTItNDA4MS04NTYxLTNhMTcxNzg5ZmU2ZCIsImMiOjZ9)
-
-Utah intermittently has some of the worst air quality in the United States due to the bowl-shaped topography of the [Wasatch Front](https://en.wikipedia.org/wiki/Wasatch_Front), [inversion effects](https://deq.utah.gov/air-quality/inversions), and wildfires.<br/><br/>In April 2022, I created a Power BI report to analyze recent and historical air quality trends in Utah. Using Microsoft Azure cloud services, I set up a pipeline to scrape data from EPA and AirNow.gov APIs. The report automatically refreshed with new data each morning.
-
-:::
-
 ## Utah Transit Authority - Free Fare February Report
 
 ::: {layout-ncol=2 layout-valign="center"}

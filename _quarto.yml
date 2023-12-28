@@ -1,5 +1,9 @@
 project:
   type: website
+  render: 
+    - home.qmd
+    - personal.qmd
+    - portfolio.qmd
 
 website:
   title: "Caleb Kirsch"

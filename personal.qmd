@@ -6,7 +6,7 @@ from: markdown+emoji
 ## :dog: :dog: :dog:
 
 ::: {layout-ncol=2 layout-valign="center"}
-![](assets/personal/Caleb and Eddie.jpg){width="600px" fig-align="left"}
+![](assets/personal/Caleb and Eddie.JPG){width="600px" fig-align="left"}
 
 One of my best friends - my big mutt, Eddie.<br/>
 Can you guess his breed mix?<br/>

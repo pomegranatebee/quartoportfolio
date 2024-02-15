@@ -18,9 +18,7 @@ website:
       - personal.qmd
     right:
       - icon: github
-        href: https://github.com/pomegranatebee/
-      - icon: linkedin
-        href: https://www.linkedin.com/in/calebkirsch        
+        href: https://github.com/pomegranatebee/    
   page-footer:
     left: |
       *This website is built with [![](assets/quarto.png){width=80px}](https://quarto.org/) and hosted via [GitHub](https://github.com/pomegranatebee/quartoportfolio) and [Netlify](https://www.netlify.com/)*

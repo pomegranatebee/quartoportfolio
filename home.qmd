@@ -13,10 +13,7 @@ from: markdown+emoji
 I'm an analytics-driven problem solver building a second career in business intelligence after a 10-year tenure as a manufacturing process engineer. I am passionate about building consensus with data.
 
 ## Skills
-:::{.callout-note}
-## The information below is a summary.
-My full resume / CV is available on [LinkedIn](https://www.linkedin.com/in/calebkirsch). LinkedIn is also the best way to contact me.
-:::
+
 |Tool / Language|Used Since|Skill Level|Comment|
 |:------------|:---:|:---:|:--------|
 |![](assets/Power BI logo.png){width=20px}&nbsp;&nbsp;**Power BI**<br/>*Power Query, Tabular models, DAX, visuals, Dataflows, Paginated Reports, Workspaces*|2018|:star::star::star::star:<br/>Expert|My preferred tool for all things BI.|
@@ -30,10 +27,6 @@ My full resume / CV is available on [LinkedIn](https://www.linkedin.com/in/caleb
 |![](assets/Microsoft Logo.png){width=20px}&nbsp;&nbsp;**MSFT Office Apps**<br/>*OneNote, Outlook, PowerPoint, SharePoint, Teams, Word, Visio*|2009|:star::star::star::star:<br/>Expert
 
 ## Work Experience
-:::{.callout-note}
-## The information below is a summary.
-My full resume / CV is available on [LinkedIn](https://www.linkedin.com/in/calebkirsch). LinkedIn is also the best way to contact me.
-:::
 
 |Employer|Role|Location|Dates|
 |:----:|:------------|:----:|:----:|

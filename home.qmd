@@ -10,13 +10,13 @@ from: markdown+emoji
 [![](assets/PBI certification.png){width="150px" fig-align="left"}](https://www.credly.com/badges/b1c71cb7-e850-4ea2-a3e2-c0a74c545fc8)
 :::
 
-I'm an analytics-driven problem solver building a second career in business intelligence after a 10-year tenure as a manufacturing process engineer. I am passionate about building consensus with data.
+I'm an analytics-driven problem solver building a second career in enterprise-scale business intelligence after a 10-year tenure as a manufacturing process engineer. I am passionate about building consensus with data.
 
 ## Skills
 
 |Tool / Language|Used Since|Skill Level|Comment|
 |:------------|:---:|:---:|:--------|
-|![](assets/Power BI logo.png){width=20px}&nbsp;&nbsp;**Power BI**<br/>*Power Query, Tabular models, DAX, visuals, Dataflows, Paginated Reports, Workspaces*|2018|:star::star::star::star:<br/>Expert|My preferred tool for all things BI.|
+|![](assets/Power BI logo.png){width=20px}&nbsp;&nbsp;**Power BI**<br/>*Tabular semantic modeling, Power Query, DAX, paginated reports, dedicated capacity optimization*|2018|:star::star::star::star:<br/>Expert|My preferred tool for all things BI.|
 |![](assets/SQL logo.png){width=20px}&nbsp;&nbsp;**SQL**<br/>*T-SQL, Azure SQL DB, SQL Server, SSAS, SSRS*|2018|:star::star::star:<br/>Advanced
 |![](assets/Azure Logo.png){width=20px}&nbsp;&nbsp;**Azure Data Engineering Stack**<br/>*Azure Data Factory, Azure Functions, Azure Data Lake Storage*|2022|:star::star:<br/>Intermediate
 |![](assets/Python logo.png){width=20px}&nbsp;&nbsp;**Python**<br/>*General scripting, API calls, data transformation, notebooks*|2023|:star:<br/>Beginner

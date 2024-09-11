@@ -1,6 +1,6 @@
 ---
 title: "Hi, I'm Caleb."
-subtitle: "*Business Intelligence Consultant&nbsp;&nbsp;/&nbsp;&nbsp;Analytics Developer&nbsp;&nbsp;/&nbsp;&nbsp;Process Engineer*"
+subtitle: "*Business Intelligence Architect&nbsp;&nbsp;/&nbsp;&nbsp;Analytics Developer&nbsp;&nbsp;/&nbsp;&nbsp;Process Engineer*"
 from: markdown+emoji
 ---
 
@@ -10,7 +10,7 @@ from: markdown+emoji
 [![](assets/PBI certification.png){width="150px" fig-align="left"}](https://www.credly.com/badges/b1c71cb7-e850-4ea2-a3e2-c0a74c545fc8)
 :::
 
-I'm an analytics-driven problem solver building a second career in enterprise-scale business intelligence after a 10-year tenure as a manufacturing process engineer. I am passionate about building consensus with data.
+My passion is creating consensus with data by architecting and developing enterprise-scale, end-to-end analytical solutions.
 
 ## Skills
 

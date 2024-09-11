@@ -10,7 +10,7 @@ from: markdown+emoji
 [![](assets/PBI certification.png){width="150px" fig-align="left"}](https://www.credly.com/badges/b1c71cb7-e850-4ea2-a3e2-c0a74c545fc8)
 :::
 
-My passion is creating consensus with data by architecting and developing enterprise-scale, end-to-end analytical solutions.
+My passion is creating consensus by architecting and developing enterprise-scale, end-to-end analytical solutions.
 
 ## Skills
 

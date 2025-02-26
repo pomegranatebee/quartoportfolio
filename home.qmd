@@ -7,7 +7,7 @@ from: markdown+emoji
 ::: {layout-ncol=2 layout-valign="center"}
 ![](assets/headshot.jpg){width="300px" fig-align="center"}
 
-[![](assets/PBI certification.png){width="150px" fig-align="left"}](https://www.credly.com/badges/b1c71cb7-e850-4ea2-a3e2-c0a74c545fc8)
+[![](assets/PBI certification.png){width="150px" fig-align="left"}](https://learn.microsoft.com/api/credentials/share/en-us/calebkirsch/D57A5910AA58C346?sharingId=A6D55676D6A0E5ED)
 :::
 
 My passion is creating consensus by architecting and developing enterprise-scale, end-to-end analytical solutions.
@@ -50,6 +50,12 @@ My passion is creating consensus by architecting and developing enterprise-scale
 ![](assets/Microsoft logo.png){width=40px}&nbsp;&nbsp;&nbsp;**Microsoft**
 
 :::{.callout-note}
+## Microsoft Certified: Fabric Data Engineer Associate
+*Feb 2025*<br/>[Certification Details](https://learn.microsoft.com/api/credentials/share/en-us/calebkirsch/2CA819CFCAA147C2?sharingId=A6D55676D6A0E5ED)
+:::
+
+
+:::{.callout-note}
 ## Microsoft Certified: Power BI Data Analyst Associate
-*Apr 2022*<br/>[Credly](https://www.credly.com/badges/b1c71cb7-e850-4ea2-a3e2-c0a74c545fc8)
+*Apr 2022*<br/>[Certification Details](https://learn.microsoft.com/api/credentials/share/en-us/calebkirsch/D57A5910AA58C346?sharingId=A6D55676D6A0E5ED)
 :::

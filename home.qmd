@@ -7,9 +7,9 @@ from: markdown+emoji
 ::: {layout-ncol=3 layout-valign="center"}
 ![](assets/headshot.jpg){width="300px" fig-align="center"}
 
-[![](assets/Fabric certification.png){width="150px" fig-align="center"}](https://learn.microsoft.com/api/credentials/share/en-us/calebkirsch/2CA819CFCAA147C2?sharingId=A6D55676D6A0E5ED)
-
 [![](assets/PBI certification.png){width="150px" fig-align="center"}](https://learn.microsoft.com/api/credentials/share/en-us/calebkirsch/D57A5910AA58C346?sharingId=A6D55676D6A0E5ED)
+
+[![](assets/Fabric certification.png){width="150px" fig-align="center"}](https://learn.microsoft.com/api/credentials/share/en-us/calebkirsch/2CA819CFCAA147C2?sharingId=A6D55676D6A0E5ED)
 :::
 
 My passion is creating consensus by architecting and developing enterprise-scale, end-to-end analytical solutions.

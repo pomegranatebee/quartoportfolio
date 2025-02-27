@@ -14,6 +14,6 @@ By nature, it is challenging to build a business intelligence portfolio since mo
 
 UTA declared "Free Fare February" (FFF) in 2022, granting free access to all public transit modes (bus, light rail, commuter rail, and more). A large increase in ridership (>20%) was observed as a result, leading to nationwide interest in a post-mortem report.<br/><br/>Using Power BI, I generated all the data visualizations for the FFF report. I also read and manually categorized about 2,000 customer comments for sentiment analysis.<br/><br/>
 
-[![](assets/portfolio/UTA FFF.png){width=250px}](assets/portfolio/UTA FFF report.pdf)
+[![](assets/portfolio/UTA FFF.png){width=250px}](assets/portfolio/UTA FFF report.pdf){target="_blank"}
 :::
 

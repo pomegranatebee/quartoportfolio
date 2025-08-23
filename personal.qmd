@@ -5,16 +5,14 @@ from: markdown+emoji
 
 ## :dog: :dog: :dog:
 
-::: {layout-ncol=2 layout-valign="center"}
-![](assets/personal/Caleb and Eddie.JPG){width="600px" fig-align="left"}
+::: {layout-ncol="2" layout-valign="center"}
+![](assets/personal/Caleb%20and%20Eddie.JPG){width="600px" fig-align="left"}
 
-One of my best friends - my big mutt, Eddie.<br/>
-Can you guess his breed mix?<br/>
-[Check out Eddie's Embark DNA test.](https://my.embarkvet.com/dog/eddiek){target="_blank"}
+One of my best friends - my big mutt, Eddie.<br/> Can you guess his breed mix?<br/> [Check out Eddie's Embark DNA test.](https://my.embarkvet.com/dog/eddiek){target="_blank"}
 :::
 
-![](assets/personal/Eddie 1.jpg){width="1000px" fig-align="left"}
+![](assets/personal/Eddie%201.jpg){width="1000px" fig-align="left"}
 
 ## :headphones: :headphones: :headphones:
 
-I'm a huge music nerd and I've been tracking my listening habits for over 15 years on&nbsp;&nbsp;[![](assets/personal/lastfmlogo.png){height="13px" fig-align="center"}](https://www.last.fm/user/flapjackfever){target="_blank"}
+I'm a huge music nerd and I've been tracking my listening habits for over 15 years on  [![](assets/personal/lastfmlogo.png){height="13px" fig-align="center"}](https://www.last.fm/user/flapjackfever){target="_blank"}

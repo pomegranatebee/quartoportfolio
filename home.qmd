@@ -33,7 +33,8 @@ My passion is creating consensus by architecting and developing enterprise-scale
 
 |Employer|Role|Location|Dates|
 |:----:|:------------|:----:|:----:|
-|[![](assets/Collectiv logo.png){width=50px}](https://gocollectiv.com/){target="_blank"}<br/>Collectiv|**Analytics Consultant<br/>***(Contract)*|Remote,<br/>USA|Apr 2022<br/>to Jul 2025<br/>(3yr, 4mo)|
+|[![](assets/phaedrus.png){width=50px}](https://phaedrusinsights.com/){target="_blank"}<br/>Phaedrus Insights|**Analytics Solutions Architect<br/>**|Remote,<br/>USA|Aug 2025<br/>to Present<br/>|
+|[![](assets/Collectiv logo.png){width=50px}](https://gocollectiv.com/){target="_blank"}<br/>Collectiv|**Analytics Consultant<br/>***(Contract)*|Remote,<br/>USA|Apr 2022<br/>to Present<br/>|
 |![](assets/UTA logo.png){width=50px}<br/>Utah Transit Authority|**Business Analyst<br/>& Power BI Developer**|Salt Lake,<br/>Utah|Jan 2022<br/>to Apr 2022<br/>(4mo)|
 |![](assets/Chevron logo.png){width=50px}<br/>Chevron|**Refinery Planning Analyst<br/>& Power BI Developer**|Salt Lake,<br/>Utah|May 2020<br/>to Dec 2021<br/>(1yr, 8mo)|
 |![](assets/Chevron logo.png){width=50px}<br/>Chevron|**Refinery Tier 3 Gasoline Specialist<br/>& Power BI Developer**|Salt Lake,<br/>Utah|Sep 2019<br/>to Apr 2020<br/>(8mo)|
